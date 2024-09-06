@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/bioinfo_pal_norte/__docusaurus/debug',
-    component: ComponentCreator('/bioinfo_pal_norte/__docusaurus/debug', 'e35'),
-    exact: true
-  },
-  {
-    path: '/bioinfo_pal_norte/__docusaurus/debug/config',
-    component: ComponentCreator('/bioinfo_pal_norte/__docusaurus/debug/config', '4f5'),
-    exact: true
-  },
-  {
-    path: '/bioinfo_pal_norte/__docusaurus/debug/content',
-    component: ComponentCreator('/bioinfo_pal_norte/__docusaurus/debug/content', '0e8'),
-    exact: true
-  },
-  {
-    path: '/bioinfo_pal_norte/__docusaurus/debug/globalData',
-    component: ComponentCreator('/bioinfo_pal_norte/__docusaurus/debug/globalData', 'aeb'),
-    exact: true
-  },
-  {
-    path: '/bioinfo_pal_norte/__docusaurus/debug/metadata',
-    component: ComponentCreator('/bioinfo_pal_norte/__docusaurus/debug/metadata', 'bae'),
-    exact: true
-  },
-  {
-    path: '/bioinfo_pal_norte/__docusaurus/debug/registry',
-    component: ComponentCreator('/bioinfo_pal_norte/__docusaurus/debug/registry', 'f09'),
-    exact: true
-  },
-  {
-    path: '/bioinfo_pal_norte/__docusaurus/debug/routes',
-    component: ComponentCreator('/bioinfo_pal_norte/__docusaurus/debug/routes', '6cf'),
-    exact: true
-  },
-  {
     path: '/bioinfo_pal_norte/markdown-page',
     component: ComponentCreator('/bioinfo_pal_norte/markdown-page', 'a5f'),
     exact: true
