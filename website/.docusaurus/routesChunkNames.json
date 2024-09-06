@@ -1,137 +1,137 @@
 {
-  "/bioinfo_pal_norte/markdown-page-a5f": {
+  "/markdown-page-b34": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "9222d4bc"
     },
     "content": "393be207"
   },
-  "/bioinfo_pal_norte/docs-456": {
+  "/docs-950": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "b8fefcc8"
     }
   },
-  "/bioinfo_pal_norte/docs-623": {
+  "/docs-c36": {
     "__comp": "a7bd4aaa",
     "version": "935f2afb"
   },
-  "/bioinfo_pal_norte/docs-264": {
+  "/docs-e45": {
     "__comp": "a94703ab"
   },
-  "/bioinfo_pal_norte/docs/bash/characteristics-2db": {
+  "/docs/bash/characteristics-9ee": {
     "__comp": "17896441",
     "content": "d906d962"
   },
-  "/bioinfo_pal_norte/docs/bash/chmod-f92": {
+  "/docs/bash/chmod-3f2": {
     "__comp": "17896441",
     "content": "8ac3316a"
   },
-  "/bioinfo_pal_norte/docs/bash/cut-9ee": {
+  "/docs/bash/cut-d4d": {
     "__comp": "17896441",
     "content": "4218da49"
   },
-  "/bioinfo_pal_norte/docs/bash/directories_basics-3e9": {
+  "/docs/bash/directories_basics-821": {
     "__comp": "17896441",
     "content": "4bbd31ce"
   },
-  "/bioinfo_pal_norte/docs/bash/exercise-172": {
+  "/docs/bash/exercise-fba": {
     "__comp": "17896441",
     "content": "631879bf"
   },
-  "/bioinfo_pal_norte/docs/bash/file_tree-773": {
+  "/docs/bash/file_tree-263": {
     "__comp": "17896441",
     "content": "11be2780"
   },
-  "/bioinfo_pal_norte/docs/bash/files_basics-f97": {
+  "/docs/bash/files_basics-d0b": {
     "__comp": "17896441",
     "content": "be3fa06b"
   },
-  "/bioinfo_pal_norte/docs/bash/files_visualization-7ec": {
+  "/docs/bash/files_visualization-245": {
     "__comp": "17896441",
     "content": "1ad21077"
   },
-  "/bioinfo_pal_norte/docs/bash/grep-297": {
+  "/docs/bash/grep-059": {
     "__comp": "17896441",
     "content": "0c559c54"
   },
-  "/bioinfo_pal_norte/docs/bash/intro-ff4": {
+  "/docs/bash/intro-d17": {
     "__comp": "17896441",
     "content": "c100a250"
   },
-  "/bioinfo_pal_norte/docs/bash/man-2b9": {
+  "/docs/bash/man-9c8": {
     "__comp": "17896441",
     "content": "d1a28f64"
   },
-  "/bioinfo_pal_norte/docs/bash/nano-9ae": {
+  "/docs/bash/nano-01d": {
     "__comp": "17896441",
     "content": "ddac47e0"
   },
-  "/bioinfo_pal_norte/docs/bash/path-011": {
+  "/docs/bash/path-624": {
     "__comp": "17896441",
     "content": "6feaf51f"
   },
-  "/bioinfo_pal_norte/docs/bash/regular_expressions-6bf": {
+  "/docs/bash/regular_expressions-388": {
     "__comp": "17896441",
     "content": "9205bf0f"
   },
-  "/bioinfo_pal_norte/docs/bash/script-0a7": {
+  "/docs/bash/script-e22": {
     "__comp": "17896441",
     "content": "54668ebc"
   },
-  "/bioinfo_pal_norte/docs/bash/sed-45d": {
+  "/docs/bash/sed-678": {
     "__comp": "17896441",
     "content": "d86d34de"
   },
-  "/bioinfo_pal_norte/docs/bash/sort-970": {
+  "/docs/bash/sort-9ec": {
     "__comp": "17896441",
     "content": "bcc11a1d"
   },
-  "/bioinfo_pal_norte/docs/bash/ssh_sftp-32f": {
+  "/docs/bash/ssh_sftp-5c5": {
     "__comp": "17896441",
     "content": "a0d94830"
   },
-  "/bioinfo_pal_norte/docs/bash/stdoutput_pipes-4eb": {
+  "/docs/bash/stdoutput_pipes-321": {
     "__comp": "17896441",
     "content": "479bd11f"
   },
-  "/bioinfo_pal_norte/docs/qiime2/adapters-fca": {
+  "/docs/qiime2/adapters-378": {
     "__comp": "17896441",
     "content": "555d6096"
   },
-  "/bioinfo_pal_norte/docs/qiime2/adiv-113": {
+  "/docs/qiime2/adiv-b33": {
     "__comp": "17896441",
     "content": "b525d301"
   },
-  "/bioinfo_pal_norte/docs/qiime2/bdiv-638": {
+  "/docs/qiime2/bdiv-4cb": {
     "__comp": "17896441",
     "content": "ed724116"
   },
-  "/bioinfo_pal_norte/docs/qiime2/denoising-db6": {
+  "/docs/qiime2/denoising-6ad": {
     "__comp": "17896441",
     "content": "b0316465"
   },
-  "/bioinfo_pal_norte/docs/qiime2/fasta_fastq-ed4": {
+  "/docs/qiime2/fasta_fastq-e29": {
     "__comp": "17896441",
     "content": "98c17955"
   },
-  "/bioinfo_pal_norte/docs/qiime2/installation-9d8": {
+  "/docs/qiime2/installation-309": {
     "__comp": "17896441",
     "content": "869d7f10"
   },
-  "/bioinfo_pal_norte/docs/qiime2/intro-5f6": {
+  "/docs/qiime2/intro-543": {
     "__comp": "17896441",
     "content": "3291b4d6"
   },
-  "/bioinfo_pal_norte/docs/qiime2/qiime2_files-7e4": {
+  "/docs/qiime2/qiime2_files-f88": {
     "__comp": "17896441",
     "content": "1cc383e5"
   },
-  "/bioinfo_pal_norte/docs/qiime2/taxonomy-b88": {
+  "/docs/qiime2/taxonomy-c93": {
     "__comp": "17896441",
     "content": "423b9b8e"
   },
-  "/bioinfo_pal_norte/-04f": {
+  "/-203": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "9222d4bc"

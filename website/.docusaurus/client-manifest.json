@@ -157,9 +157,9 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/9205bf0f.4cd337fe.js",
-          "hash": "8d10f6fd9f3c449a",
-          "publicPath": "/bioinfo_pal_norte/assets/js/9205bf0f.4cd337fe.js"
+          "file": "assets/js/9205bf0f.98479656.js",
+          "hash": "0c5a5bc2e14f781a",
+          "publicPath": "/assets/js/9205bf0f.98479656.js"
         }
       ]
     },
@@ -168,16 +168,16 @@
         {
           "file": "assets/js/9222d4bc.692954a8.js",
           "hash": "57944d7a085aabf6",
-          "publicPath": "/bioinfo_pal_norte/assets/js/9222d4bc.692954a8.js"
+          "publicPath": "/assets/js/9222d4bc.692954a8.js"
         }
       ]
     },
     "77": {
       "js": [
         {
-          "file": "assets/js/1ad21077.019681fc.js",
-          "hash": "4f5713e81284ad3a",
-          "publicPath": "/bioinfo_pal_norte/assets/js/1ad21077.019681fc.js"
+          "file": "assets/js/1ad21077.afbbeb0a.js",
+          "hash": "c2894d4956329f6b",
+          "publicPath": "/assets/js/1ad21077.afbbeb0a.js"
         }
       ]
     },
@@ -186,43 +186,43 @@
         {
           "file": "assets/js/1f391b9e.4f6108d2.js",
           "hash": "6c7b119ac55c2438",
-          "publicPath": "/bioinfo_pal_norte/assets/js/1f391b9e.4f6108d2.js"
+          "publicPath": "/assets/js/1f391b9e.4f6108d2.js"
         }
       ]
     },
     "101": {
       "js": [
         {
-          "file": "assets/js/8ac3316a.93ddbb6b.js",
-          "hash": "7a2db67731cabf2f",
-          "publicPath": "/bioinfo_pal_norte/assets/js/8ac3316a.93ddbb6b.js"
+          "file": "assets/js/8ac3316a.0e1aaaa4.js",
+          "hash": "b5b254c52226c348",
+          "publicPath": "/assets/js/8ac3316a.0e1aaaa4.js"
         }
       ]
     },
     "137": {
       "js": [
         {
-          "file": "assets/js/d906d962.3cffcb93.js",
-          "hash": "b3deeb4dc9185fa4",
-          "publicPath": "/bioinfo_pal_norte/assets/js/d906d962.3cffcb93.js"
+          "file": "assets/js/d906d962.bb159aa1.js",
+          "hash": "c6a173e2537d0f43",
+          "publicPath": "/assets/js/d906d962.bb159aa1.js"
         }
       ]
     },
     "162": {
       "js": [
         {
-          "file": "assets/js/ddac47e0.8828af70.js",
-          "hash": "82b99f3bb8f30052",
-          "publicPath": "/bioinfo_pal_norte/assets/js/ddac47e0.8828af70.js"
+          "file": "assets/js/ddac47e0.bd36bfe1.js",
+          "hash": "daa9d8ca2aeaf632",
+          "publicPath": "/assets/js/ddac47e0.bd36bfe1.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.4bebeedc.js",
-          "hash": "c63f7c67b44a26e1",
-          "publicPath": "/bioinfo_pal_norte/assets/js/main.4bebeedc.js"
+          "file": "assets/js/main.c4d18134.js",
+          "hash": "e68789898d2c1d07",
+          "publicPath": "/assets/js/main.c4d18134.js"
         }
       ]
     },
@@ -231,70 +231,70 @@
         {
           "file": "assets/js/c4f5d8e4.3bb4017f.js",
           "hash": "c593e143292cc895",
-          "publicPath": "/bioinfo_pal_norte/assets/js/c4f5d8e4.3bb4017f.js"
+          "publicPath": "/assets/js/c4f5d8e4.3bb4017f.js"
         }
       ]
     },
     "197": {
       "js": [
         {
-          "file": "assets/js/11be2780.78a55a80.js",
-          "hash": "03784ca67b50b6d4",
-          "publicPath": "/bioinfo_pal_norte/assets/js/11be2780.78a55a80.js"
+          "file": "assets/js/11be2780.78b67527.js",
+          "hash": "d38a43e76e3ddb4f",
+          "publicPath": "/assets/js/11be2780.78b67527.js"
         }
       ]
     },
     "214": {
       "js": [
         {
-          "file": "assets/js/a0d94830.6229f1ae.js",
-          "hash": "2cf95fc262aaccf1",
-          "publicPath": "/bioinfo_pal_norte/assets/js/a0d94830.6229f1ae.js"
+          "file": "assets/js/a0d94830.2865ed9b.js",
+          "hash": "832e13f90c5006c3",
+          "publicPath": "/assets/js/a0d94830.2865ed9b.js"
         }
       ]
     },
     "258": {
       "js": [
         {
-          "file": "assets/js/1cc383e5.17d1da6f.js",
-          "hash": "b9a44655bf61e991",
-          "publicPath": "/bioinfo_pal_norte/assets/js/1cc383e5.17d1da6f.js"
+          "file": "assets/js/1cc383e5.188e6e39.js",
+          "hash": "befbce1ac459419c",
+          "publicPath": "/assets/js/1cc383e5.188e6e39.js"
         }
       ]
     },
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.9e5354ff.js",
-          "hash": "893c7b84e36f46c0",
-          "publicPath": "/bioinfo_pal_norte/assets/js/runtime~main.9e5354ff.js"
+          "file": "assets/js/runtime~main.2c159db7.js",
+          "hash": "221bbcac33834124",
+          "publicPath": "/assets/js/runtime~main.2c159db7.js"
         }
       ]
     },
     "351": {
       "js": [
         {
-          "file": "assets/js/631879bf.85f81777.js",
-          "hash": "3f314863412cff48",
-          "publicPath": "/bioinfo_pal_norte/assets/js/631879bf.85f81777.js"
+          "file": "assets/js/631879bf.cd56a7f1.js",
+          "hash": "5884a5ba186bf7f0",
+          "publicPath": "/assets/js/631879bf.cd56a7f1.js"
         }
       ]
     },
     "355": {
       "js": [
         {
-          "file": "assets/js/555d6096.1ed9533b.js",
-          "hash": "f084cb5335450166",
-          "publicPath": "/bioinfo_pal_norte/assets/js/555d6096.1ed9533b.js"
+          "file": "assets/js/555d6096.8fac9a0a.js",
+          "hash": "cb9ccabd0dee35bf",
+          "publicPath": "/assets/js/555d6096.8fac9a0a.js"
         }
       ]
     },
     "366": {
       "js": [
         {
-          "file": "assets/js/0c559c54.cfbee43f.js",
-          "hash": "0f416d2afabe6086",
-          "publicPath": "/bioinfo_pal_norte/assets/js/0c559c54.cfbee43f.js"
+          "file": "assets/js/0c559c54.52fce13d.js",
+          "hash": "402e5992fb66b915",
+          "publicPath": "/assets/js/0c559c54.52fce13d.js"
         }
       ]
     },
@@ -303,61 +303,61 @@
         {
           "file": "assets/js/a94703ab.0da12393.js",
           "hash": "c4400166b34d8651",
-          "publicPath": "/bioinfo_pal_norte/assets/js/a94703ab.0da12393.js"
+          "publicPath": "/assets/js/a94703ab.0da12393.js"
         }
       ]
     },
     "395": {
       "js": [
         {
-          "file": "assets/js/869d7f10.470810f1.js",
-          "hash": "7f9baccc869d15b2",
-          "publicPath": "/bioinfo_pal_norte/assets/js/869d7f10.470810f1.js"
+          "file": "assets/js/869d7f10.056b128b.js",
+          "hash": "52ecb0b6694f995f",
+          "publicPath": "/assets/js/869d7f10.056b128b.js"
         }
       ]
     },
     "414": {
       "js": [
         {
-          "file": "assets/js/393be207.37fe6e99.js",
-          "hash": "d1add7dea7e5994d",
-          "publicPath": "/bioinfo_pal_norte/assets/js/393be207.37fe6e99.js"
+          "file": "assets/js/393be207.18e91144.js",
+          "hash": "0da97e0b8bfe49f5",
+          "publicPath": "/assets/js/393be207.18e91144.js"
         }
       ]
     },
     "422": {
       "js": [
         {
-          "file": "assets/js/4218da49.699d46aa.js",
-          "hash": "cf369179472fc2fd",
-          "publicPath": "/bioinfo_pal_norte/assets/js/4218da49.699d46aa.js"
+          "file": "assets/js/4218da49.f9878cd9.js",
+          "hash": "05ab31e7783ad38a",
+          "publicPath": "/assets/js/4218da49.f9878cd9.js"
         }
       ]
     },
     "428": {
       "js": [
         {
-          "file": "assets/js/479bd11f.3970e90b.js",
-          "hash": "391b9c63551c9eff",
-          "publicPath": "/bioinfo_pal_norte/assets/js/479bd11f.3970e90b.js"
+          "file": "assets/js/479bd11f.aafcfb15.js",
+          "hash": "05c2eae517bd50b4",
+          "publicPath": "/assets/js/479bd11f.aafcfb15.js"
         }
       ]
     },
     "470": {
       "js": [
         {
-          "file": "assets/js/54668ebc.9633df39.js",
-          "hash": "8dfa13585c43cace",
-          "publicPath": "/bioinfo_pal_norte/assets/js/54668ebc.9633df39.js"
+          "file": "assets/js/54668ebc.08f96f8c.js",
+          "hash": "c2c82d199e58fc0e",
+          "publicPath": "/assets/js/54668ebc.08f96f8c.js"
         }
       ]
     },
     "501": {
       "js": [
         {
-          "file": "assets/js/b0316465.5cf0d0f6.js",
-          "hash": "25f8ecfb4f002698",
-          "publicPath": "/bioinfo_pal_norte/assets/js/b0316465.5cf0d0f6.js"
+          "file": "assets/js/b0316465.d2209378.js",
+          "hash": "f9f30615dd070e31",
+          "publicPath": "/assets/js/b0316465.d2209378.js"
         }
       ]
     },
@@ -366,25 +366,25 @@
         {
           "file": "assets/js/a7bd4aaa.d63a5bf6.js",
           "hash": "a1adc384388519f1",
-          "publicPath": "/bioinfo_pal_norte/assets/js/a7bd4aaa.d63a5bf6.js"
+          "publicPath": "/assets/js/a7bd4aaa.d63a5bf6.js"
         }
       ]
     },
     "520": {
       "js": [
         {
-          "file": "assets/js/6feaf51f.a8228874.js",
-          "hash": "a6ba3665a4fbdb60",
-          "publicPath": "/bioinfo_pal_norte/assets/js/6feaf51f.a8228874.js"
+          "file": "assets/js/6feaf51f.985c5f58.js",
+          "hash": "ae5fe11797d68d84",
+          "publicPath": "/assets/js/6feaf51f.985c5f58.js"
         }
       ]
     },
     "526": {
       "js": [
         {
-          "file": "assets/js/ed724116.65a065c9.js",
-          "hash": "c1e45bc26a4a1d0d",
-          "publicPath": "/bioinfo_pal_norte/assets/js/ed724116.65a065c9.js"
+          "file": "assets/js/ed724116.dcc3bf98.js",
+          "hash": "8a165fa511d08013",
+          "publicPath": "/assets/js/ed724116.dcc3bf98.js"
         }
       ]
     },
@@ -393,16 +393,16 @@
         {
           "file": "assets/css/styles.da834632.css",
           "hash": "25d9b6b255519d21",
-          "publicPath": "/bioinfo_pal_norte/assets/css/styles.da834632.css"
+          "publicPath": "/assets/css/styles.da834632.css"
         }
       ]
     },
     "613": {
       "js": [
         {
-          "file": "assets/js/c100a250.4ca83c13.js",
-          "hash": "bca46c34ece67e43",
-          "publicPath": "/bioinfo_pal_norte/assets/js/c100a250.4ca83c13.js"
+          "file": "assets/js/c100a250.13689945.js",
+          "hash": "c225067f9c025b57",
+          "publicPath": "/assets/js/c100a250.13689945.js"
         }
       ]
     },
@@ -411,7 +411,7 @@
         {
           "file": "assets/js/5e95c892.72880468.js",
           "hash": "800622c95f370e03",
-          "publicPath": "/bioinfo_pal_norte/assets/js/5e95c892.72880468.js"
+          "publicPath": "/assets/js/5e95c892.72880468.js"
         }
       ]
     },
@@ -420,43 +420,43 @@
         {
           "file": "assets/js/674.a0688c11.js",
           "hash": "c6aa8fdd442b5f33",
-          "publicPath": "/bioinfo_pal_norte/assets/js/674.a0688c11.js"
+          "publicPath": "/assets/js/674.a0688c11.js"
         }
       ]
     },
     "681": {
       "js": [
         {
-          "file": "assets/js/be3fa06b.7b8a6b3e.js",
-          "hash": "b06811fa174e604c",
-          "publicPath": "/bioinfo_pal_norte/assets/js/be3fa06b.7b8a6b3e.js"
+          "file": "assets/js/be3fa06b.d41943d9.js",
+          "hash": "ebe35128d6bc16d8",
+          "publicPath": "/assets/js/be3fa06b.d41943d9.js"
         }
       ]
     },
     "683": {
       "js": [
         {
-          "file": "assets/js/935f2afb.6b426900.js",
-          "hash": "be3a4e4cb958c34e",
-          "publicPath": "/bioinfo_pal_norte/assets/js/935f2afb.6b426900.js"
+          "file": "assets/js/935f2afb.c3269efa.js",
+          "hash": "0887b82e47c11242",
+          "publicPath": "/assets/js/935f2afb.c3269efa.js"
         }
       ]
     },
     "701": {
       "js": [
         {
-          "file": "assets/js/bcc11a1d.a357c7ec.js",
-          "hash": "95811edf26e293de",
-          "publicPath": "/bioinfo_pal_norte/assets/js/bcc11a1d.a357c7ec.js"
+          "file": "assets/js/bcc11a1d.ec0e103c.js",
+          "hash": "3d5038e81e71f4f2",
+          "publicPath": "/assets/js/bcc11a1d.ec0e103c.js"
         }
       ]
     },
     "730": {
       "js": [
         {
-          "file": "assets/js/b525d301.e65d80e1.js",
-          "hash": "c321407f43a6dcad",
-          "publicPath": "/bioinfo_pal_norte/assets/js/b525d301.e65d80e1.js"
+          "file": "assets/js/b525d301.62f69ffc.js",
+          "hash": "4f3d129292fd8c09",
+          "publicPath": "/assets/js/b525d301.62f69ffc.js"
         }
       ]
     },
@@ -465,7 +465,7 @@
         {
           "file": "assets/js/b8fefcc8.5f3b42ce.js",
           "hash": "82b3f6243b850cda",
-          "publicPath": "/bioinfo_pal_norte/assets/js/b8fefcc8.5f3b42ce.js"
+          "publicPath": "/assets/js/b8fefcc8.5f3b42ce.js"
         }
       ]
     },
@@ -474,34 +474,34 @@
         {
           "file": "assets/js/772.af2e8d9d.js",
           "hash": "b4aa978e09493bad",
-          "publicPath": "/bioinfo_pal_norte/assets/js/772.af2e8d9d.js"
+          "publicPath": "/assets/js/772.af2e8d9d.js"
         }
       ]
     },
     "830": {
       "js": [
         {
-          "file": "assets/js/98c17955.0ae86c56.js",
-          "hash": "a6f32ec11f4d58ff",
-          "publicPath": "/bioinfo_pal_norte/assets/js/98c17955.0ae86c56.js"
+          "file": "assets/js/98c17955.32804b46.js",
+          "hash": "c9cb47928c4b3ead",
+          "publicPath": "/assets/js/98c17955.32804b46.js"
         }
       ]
     },
     "847": {
       "js": [
         {
-          "file": "assets/js/3291b4d6.20421a47.js",
-          "hash": "6b2835d21bab7d21",
-          "publicPath": "/bioinfo_pal_norte/assets/js/3291b4d6.20421a47.js"
+          "file": "assets/js/3291b4d6.49b0a87f.js",
+          "hash": "bf6c5cf99a6aeec7",
+          "publicPath": "/assets/js/3291b4d6.49b0a87f.js"
         }
       ]
     },
     "869": {
       "js": [
         {
-          "file": "assets/js/4bbd31ce.c423abed.js",
-          "hash": "3696f8f019b1bc67",
-          "publicPath": "/bioinfo_pal_norte/assets/js/4bbd31ce.c423abed.js"
+          "file": "assets/js/4bbd31ce.4a2af097.js",
+          "hash": "f04c44949d408f7c",
+          "publicPath": "/assets/js/4bbd31ce.4a2af097.js"
         }
       ]
     },
@@ -510,34 +510,34 @@
         {
           "file": "assets/js/17896441.04f68a51.js",
           "hash": "a68627bd447d2a50",
-          "publicPath": "/bioinfo_pal_norte/assets/js/17896441.04f68a51.js"
+          "publicPath": "/assets/js/17896441.04f68a51.js"
         }
       ]
     },
     "962": {
       "js": [
         {
-          "file": "assets/js/d1a28f64.64bb8d8c.js",
-          "hash": "352029a6a30db177",
-          "publicPath": "/bioinfo_pal_norte/assets/js/d1a28f64.64bb8d8c.js"
+          "file": "assets/js/d1a28f64.c5dc9ad8.js",
+          "hash": "8d072a82fe9afb48",
+          "publicPath": "/assets/js/d1a28f64.c5dc9ad8.js"
         }
       ]
     },
     "966": {
       "js": [
         {
-          "file": "assets/js/d86d34de.f117bbe0.js",
-          "hash": "a35e06cac2cf7f46",
-          "publicPath": "/bioinfo_pal_norte/assets/js/d86d34de.f117bbe0.js"
+          "file": "assets/js/d86d34de.9ae38090.js",
+          "hash": "9e0bf45d3e7a656b",
+          "publicPath": "/assets/js/d86d34de.9ae38090.js"
         }
       ]
     },
     "974": {
       "js": [
         {
-          "file": "assets/js/423b9b8e.c34c2639.js",
-          "hash": "b9725c8ce42068d4",
-          "publicPath": "/bioinfo_pal_norte/assets/js/423b9b8e.c34c2639.js"
+          "file": "assets/js/423b9b8e.76646f3e.js",
+          "hash": "7be6045ac10e4a38",
+          "publicPath": "/assets/js/423b9b8e.76646f3e.js"
         }
       ]
     }

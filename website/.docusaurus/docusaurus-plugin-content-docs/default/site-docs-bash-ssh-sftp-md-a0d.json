@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/ssh_sftp.md",
   "sourceDirName": "bash",
   "slug": "/bash/ssh_sftp",
-  "permalink": "/bioinfo_pal_norte/docs/bash/ssh_sftp",
+  "permalink": "/docs/bash/ssh_sftp",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Línea de comandos",
-    "permalink": "/bioinfo_pal_norte/docs/bash/characteristics"
+    "permalink": "/docs/bash/characteristics"
   },
   "next": {
     "title": "Comandos",
-    "permalink": "/bioinfo_pal_norte/docs/bash/man"
+    "permalink": "/docs/bash/man"
   }
 }

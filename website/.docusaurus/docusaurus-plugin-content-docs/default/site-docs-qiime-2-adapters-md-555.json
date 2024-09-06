@@ -5,7 +5,7 @@
   "source": "@site/docs/qiime2/adapters.md",
   "sourceDirName": "qiime2",
   "slug": "/qiime2/adapters",
-  "permalink": "/bioinfo_pal_norte/docs/qiime2/adapters",
+  "permalink": "/docs/qiime2/adapters",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Documentos iniciales",
-    "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files"
+    "permalink": "/docs/qiime2/qiime2_files"
   },
   "next": {
     "title": "Denoising",
-    "permalink": "/bioinfo_pal_norte/docs/qiime2/denoising"
+    "permalink": "/docs/qiime2/denoising"
   }
 }

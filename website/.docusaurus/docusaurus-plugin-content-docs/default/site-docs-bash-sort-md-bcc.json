@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/sort.md",
   "sourceDirName": "bash",
   "slug": "/bash/sort",
-  "permalink": "/bioinfo_pal_norte/docs/bash/sort",
+  "permalink": "/docs/bash/sort",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Comando sed",
-    "permalink": "/bioinfo_pal_norte/docs/bash/sed"
+    "permalink": "/docs/bash/sed"
   },
   "next": {
     "title": "Redirección de salida y tuberías",
-    "permalink": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes"
+    "permalink": "/docs/bash/stdoutput_pipes"
   }
 }

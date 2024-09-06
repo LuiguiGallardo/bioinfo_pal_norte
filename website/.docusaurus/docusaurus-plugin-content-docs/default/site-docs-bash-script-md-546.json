@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/script.md",
   "sourceDirName": "bash",
   "slug": "/bash/script",
-  "permalink": "/bioinfo_pal_norte/docs/bash/script",
+  "permalink": "/docs/bash/script",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Redirección de salida y tuberías",
-    "permalink": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes"
+    "permalink": "/docs/bash/stdoutput_pipes"
   },
   "next": {
     "title": "Ejercicios de práctica",
-    "permalink": "/bioinfo_pal_norte/docs/bash/exercise"
+    "permalink": "/docs/bash/exercise"
   }
 }

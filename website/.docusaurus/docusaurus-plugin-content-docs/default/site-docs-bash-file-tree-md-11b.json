@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/file_tree.md",
   "sourceDirName": "bash",
   "slug": "/bash/file_tree",
-  "permalink": "/bioinfo_pal_norte/docs/bash/file_tree",
+  "permalink": "/docs/bash/file_tree",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Comandos",
-    "permalink": "/bioinfo_pal_norte/docs/bash/man"
+    "permalink": "/docs/bash/man"
   },
   "next": {
     "title": "Rutas de acceso (pathname)",
-    "permalink": "/bioinfo_pal_norte/docs/bash/path"
+    "permalink": "/docs/bash/path"
   }
 }

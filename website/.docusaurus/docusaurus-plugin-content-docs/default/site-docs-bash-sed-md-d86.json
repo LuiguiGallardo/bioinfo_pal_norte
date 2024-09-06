@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/sed.md",
   "sourceDirName": "bash",
   "slug": "/bash/sed",
-  "permalink": "/bioinfo_pal_norte/docs/bash/sed",
+  "permalink": "/docs/bash/sed",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Comando grep",
-    "permalink": "/bioinfo_pal_norte/docs/bash/grep"
+    "permalink": "/docs/bash/grep"
   },
   "next": {
     "title": "Comando sort",
-    "permalink": "/bioinfo_pal_norte/docs/bash/sort"
+    "permalink": "/docs/bash/sort"
   }
 }

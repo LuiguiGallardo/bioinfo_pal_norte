@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/cut.md",
   "sourceDirName": "bash",
   "slug": "/bash/cut",
-  "permalink": "/bioinfo_pal_norte/docs/bash/cut",
+  "permalink": "/docs/bash/cut",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Visualización de archivos",
-    "permalink": "/bioinfo_pal_norte/docs/bash/files_visualization"
+    "permalink": "/docs/bash/files_visualization"
   },
   "next": {
     "title": "Comando grep",
-    "permalink": "/bioinfo_pal_norte/docs/bash/grep"
+    "permalink": "/docs/bash/grep"
   }
 }

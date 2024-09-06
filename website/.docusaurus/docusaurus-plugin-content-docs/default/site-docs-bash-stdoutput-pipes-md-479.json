@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/stdoutput_pipes.md",
   "sourceDirName": "bash",
   "slug": "/bash/stdoutput_pipes",
-  "permalink": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes",
+  "permalink": "/docs/bash/stdoutput_pipes",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Comando sort",
-    "permalink": "/bioinfo_pal_norte/docs/bash/sort"
+    "permalink": "/docs/bash/sort"
   },
   "next": {
     "title": "Creación de un script",
-    "permalink": "/bioinfo_pal_norte/docs/bash/script"
+    "permalink": "/docs/bash/script"
   }
 }

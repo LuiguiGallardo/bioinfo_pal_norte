@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/chmod.md",
   "sourceDirName": "bash",
   "slug": "/bash/chmod",
-  "permalink": "/bioinfo_pal_norte/docs/bash/chmod",
+  "permalink": "/docs/bash/chmod",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Expresiones regulares y comodines",
-    "permalink": "/bioinfo_pal_norte/docs/bash/regular_expressions"
+    "permalink": "/docs/bash/regular_expressions"
   },
   "next": {
     "title": "Editor de texto nano",
-    "permalink": "/bioinfo_pal_norte/docs/bash/nano"
+    "permalink": "/docs/bash/nano"
   }
 }

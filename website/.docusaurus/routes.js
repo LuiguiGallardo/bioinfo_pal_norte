@@ -3,187 +3,187 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/bioinfo_pal_norte/markdown-page',
-    component: ComponentCreator('/bioinfo_pal_norte/markdown-page', 'a5f'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', 'b34'),
     exact: true
   },
   {
-    path: '/bioinfo_pal_norte/docs',
-    component: ComponentCreator('/bioinfo_pal_norte/docs', '456'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '950'),
     routes: [
       {
-        path: '/bioinfo_pal_norte/docs',
-        component: ComponentCreator('/bioinfo_pal_norte/docs', '623'),
+        path: '/docs',
+        component: ComponentCreator('/docs', 'c36'),
         routes: [
           {
-            path: '/bioinfo_pal_norte/docs',
-            component: ComponentCreator('/bioinfo_pal_norte/docs', '264'),
+            path: '/docs',
+            component: ComponentCreator('/docs', 'e45'),
             routes: [
               {
-                path: '/bioinfo_pal_norte/docs/bash/characteristics',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/characteristics', '2db'),
+                path: '/docs/bash/characteristics',
+                component: ComponentCreator('/docs/bash/characteristics', '9ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/chmod',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/chmod', 'f92'),
+                path: '/docs/bash/chmod',
+                component: ComponentCreator('/docs/bash/chmod', '3f2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/cut',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/cut', '9ee'),
+                path: '/docs/bash/cut',
+                component: ComponentCreator('/docs/bash/cut', 'd4d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/directories_basics',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/directories_basics', '3e9'),
+                path: '/docs/bash/directories_basics',
+                component: ComponentCreator('/docs/bash/directories_basics', '821'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/exercise',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/exercise', '172'),
+                path: '/docs/bash/exercise',
+                component: ComponentCreator('/docs/bash/exercise', 'fba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/file_tree',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/file_tree', '773'),
+                path: '/docs/bash/file_tree',
+                component: ComponentCreator('/docs/bash/file_tree', '263'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/files_basics',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/files_basics', 'f97'),
+                path: '/docs/bash/files_basics',
+                component: ComponentCreator('/docs/bash/files_basics', 'd0b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/files_visualization',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/files_visualization', '7ec'),
+                path: '/docs/bash/files_visualization',
+                component: ComponentCreator('/docs/bash/files_visualization', '245'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/grep',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/grep', '297'),
+                path: '/docs/bash/grep',
+                component: ComponentCreator('/docs/bash/grep', '059'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/intro',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/intro', 'ff4'),
+                path: '/docs/bash/intro',
+                component: ComponentCreator('/docs/bash/intro', 'd17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/man',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/man', '2b9'),
+                path: '/docs/bash/man',
+                component: ComponentCreator('/docs/bash/man', '9c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/nano',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/nano', '9ae'),
+                path: '/docs/bash/nano',
+                component: ComponentCreator('/docs/bash/nano', '01d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/path',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/path', '011'),
+                path: '/docs/bash/path',
+                component: ComponentCreator('/docs/bash/path', '624'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/regular_expressions',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/regular_expressions', '6bf'),
+                path: '/docs/bash/regular_expressions',
+                component: ComponentCreator('/docs/bash/regular_expressions', '388'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/script',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/script', '0a7'),
+                path: '/docs/bash/script',
+                component: ComponentCreator('/docs/bash/script', 'e22'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/sed',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/sed', '45d'),
+                path: '/docs/bash/sed',
+                component: ComponentCreator('/docs/bash/sed', '678'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/sort',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/sort', '970'),
+                path: '/docs/bash/sort',
+                component: ComponentCreator('/docs/bash/sort', '9ec'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/ssh_sftp',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/ssh_sftp', '32f'),
+                path: '/docs/bash/ssh_sftp',
+                component: ComponentCreator('/docs/bash/ssh_sftp', '5c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/bash/stdoutput_pipes',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/bash/stdoutput_pipes', '4eb'),
+                path: '/docs/bash/stdoutput_pipes',
+                component: ComponentCreator('/docs/bash/stdoutput_pipes', '321'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/adapters',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/adapters', 'fca'),
+                path: '/docs/qiime2/adapters',
+                component: ComponentCreator('/docs/qiime2/adapters', '378'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/adiv',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/adiv', '113'),
+                path: '/docs/qiime2/adiv',
+                component: ComponentCreator('/docs/qiime2/adiv', 'b33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/bdiv',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/bdiv', '638'),
+                path: '/docs/qiime2/bdiv',
+                component: ComponentCreator('/docs/qiime2/bdiv', '4cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/denoising',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/denoising', 'db6'),
+                path: '/docs/qiime2/denoising',
+                component: ComponentCreator('/docs/qiime2/denoising', '6ad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/fasta_fastq',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/fasta_fastq', 'ed4'),
+                path: '/docs/qiime2/fasta_fastq',
+                component: ComponentCreator('/docs/qiime2/fasta_fastq', 'e29'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/installation',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/installation', '9d8'),
+                path: '/docs/qiime2/installation',
+                component: ComponentCreator('/docs/qiime2/installation', '309'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/intro',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/intro', '5f6'),
+                path: '/docs/qiime2/intro',
+                component: ComponentCreator('/docs/qiime2/intro', '543'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/qiime2_files',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/qiime2_files', '7e4'),
+                path: '/docs/qiime2/qiime2_files',
+                component: ComponentCreator('/docs/qiime2/qiime2_files', 'f88'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/bioinfo_pal_norte/docs/qiime2/taxonomy',
-                component: ComponentCreator('/bioinfo_pal_norte/docs/qiime2/taxonomy', 'b88'),
+                path: '/docs/qiime2/taxonomy',
+                component: ComponentCreator('/docs/qiime2/taxonomy', 'c93'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -194,8 +194,8 @@ export default [
     ]
   },
   {
-    path: '/bioinfo_pal_norte/',
-    component: ComponentCreator('/bioinfo_pal_norte/', '04f'),
+    path: '/',
+    component: ComponentCreator('/', '203'),
     exact: true
   },
   {

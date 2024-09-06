@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/intro.md",
   "sourceDirName": "bash",
   "slug": "/bash/intro",
-  "permalink": "/bioinfo_pal_norte/docs/bash/intro",
+  "permalink": "/docs/bash/intro",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Línea de comandos",
-    "permalink": "/bioinfo_pal_norte/docs/bash/characteristics"
+    "permalink": "/docs/bash/characteristics"
   }
 }

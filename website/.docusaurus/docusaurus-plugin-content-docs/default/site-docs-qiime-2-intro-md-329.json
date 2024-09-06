@@ -5,7 +5,7 @@
   "source": "@site/docs/qiime2/intro.md",
   "sourceDirName": "qiime2",
   "slug": "/qiime2/intro",
-  "permalink": "/bioinfo_pal_norte/docs/qiime2/intro",
+  "permalink": "/docs/qiime2/intro",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Ejercicios de práctica",
-    "permalink": "/bioinfo_pal_norte/docs/bash/exercise"
+    "permalink": "/docs/bash/exercise"
   },
   "next": {
     "title": "Formatos comunes de secuencias",
-    "permalink": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq"
+    "permalink": "/docs/qiime2/fasta_fastq"
   }
 }

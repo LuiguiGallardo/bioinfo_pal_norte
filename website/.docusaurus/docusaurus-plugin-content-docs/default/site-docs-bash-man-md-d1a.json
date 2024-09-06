@@ -5,7 +5,7 @@
   "source": "@site/docs/bash/man.md",
   "sourceDirName": "bash",
   "slug": "/bash/man",
-  "permalink": "/bioinfo_pal_norte/docs/bash/man",
+  "permalink": "/docs/bash/man",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Conexión con ssh y sftp",
-    "permalink": "/bioinfo_pal_norte/docs/bash/ssh_sftp"
+    "permalink": "/docs/bash/ssh_sftp"
   },
   "next": {
     "title": "Organización de archivos y directorios en linux",
-    "permalink": "/bioinfo_pal_norte/docs/bash/file_tree"
+    "permalink": "/docs/bash/file_tree"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/qiime2/installation.md",
   "sourceDirName": "qiime2",
   "slug": "/qiime2/installation",
-  "permalink": "/bioinfo_pal_norte/docs/qiime2/installation",
+  "permalink": "/docs/qiime2/installation",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Formatos comunes de secuencias",
-    "permalink": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq"
+    "permalink": "/docs/qiime2/fasta_fastq"
   },
   "next": {
     "title": "Documentos iniciales",
-    "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files"
+    "permalink": "/docs/qiime2/qiime2_files"
   }
 }

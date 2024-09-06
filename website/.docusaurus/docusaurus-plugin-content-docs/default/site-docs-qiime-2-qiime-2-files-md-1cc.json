@@ -5,7 +5,7 @@
   "source": "@site/docs/qiime2/qiime2_files.md",
   "sourceDirName": "qiime2",
   "slug": "/qiime2/qiime2_files",
-  "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files",
+  "permalink": "/docs/qiime2/qiime2_files",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Instalación de QIIME 2",
-    "permalink": "/bioinfo_pal_norte/docs/qiime2/installation"
+    "permalink": "/docs/qiime2/installation"
   },
   "next": {
     "title": "Remoción de adaptadores",
-    "permalink": "/bioinfo_pal_norte/docs/qiime2/adapters"
+    "permalink": "/docs/qiime2/adapters"
   }
 }
