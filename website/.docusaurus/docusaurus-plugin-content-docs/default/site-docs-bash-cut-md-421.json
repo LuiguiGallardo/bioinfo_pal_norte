@@ -1,0 +1,26 @@
+{
+  "id": "bash/cut",
+  "title": "Comando cut",
+  "description": "Su funcionalidad principal es recortar y mostrar partes seleccionadas del contenido de un archivo o de la salida de otros comandos, utilizando delimitadores o posiciones específicas. cut es útil para manipular y trabajar con datos tabulares o estructurados, donde es necesario extraer información específica.",
+  "source": "@site/docs/bash/cut.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/cut",
+  "permalink": "/bioinfo_pal_norte/docs/bash/cut",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visualización de archivos",
+    "permalink": "/bioinfo_pal_norte/docs/bash/files_visualization"
+  },
+  "next": {
+    "title": "Comando grep",
+    "permalink": "/bioinfo_pal_norte/docs/bash/grep"
+  }
+}

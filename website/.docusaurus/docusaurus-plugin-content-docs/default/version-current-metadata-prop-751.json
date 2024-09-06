@@ -1,0 +1,396 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "bash",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introducción Bash",
+            "href": "/bioinfo_pal_norte/docs/bash/intro",
+            "docId": "bash/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Línea de comandos",
+            "href": "/bioinfo_pal_norte/docs/bash/characteristics",
+            "docId": "bash/characteristics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Conexión con ssh y sftp",
+            "href": "/bioinfo_pal_norte/docs/bash/ssh_sftp",
+            "docId": "bash/ssh_sftp",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Comandos",
+            "href": "/bioinfo_pal_norte/docs/bash/man",
+            "docId": "bash/man",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Organización de archivos y directorios en linux",
+            "href": "/bioinfo_pal_norte/docs/bash/file_tree",
+            "docId": "bash/file_tree",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Rutas de acceso (pathname)",
+            "href": "/bioinfo_pal_norte/docs/bash/path",
+            "docId": "bash/path",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Manipulación de archivos",
+            "href": "/bioinfo_pal_norte/docs/bash/files_basics",
+            "docId": "bash/files_basics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Manipulación de directorios",
+            "href": "/bioinfo_pal_norte/docs/bash/directories_basics",
+            "docId": "bash/directories_basics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Expresiones regulares y comodines",
+            "href": "/bioinfo_pal_norte/docs/bash/regular_expressions",
+            "docId": "bash/regular_expressions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Cambiar permisos con chmod",
+            "href": "/bioinfo_pal_norte/docs/bash/chmod",
+            "docId": "bash/chmod",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Editor de texto nano",
+            "href": "/bioinfo_pal_norte/docs/bash/nano",
+            "docId": "bash/nano",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Visualización de archivos",
+            "href": "/bioinfo_pal_norte/docs/bash/files_visualization",
+            "docId": "bash/files_visualization",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Comando cut",
+            "href": "/bioinfo_pal_norte/docs/bash/cut",
+            "docId": "bash/cut",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Comando grep",
+            "href": "/bioinfo_pal_norte/docs/bash/grep",
+            "docId": "bash/grep",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Comando sed",
+            "href": "/bioinfo_pal_norte/docs/bash/sed",
+            "docId": "bash/sed",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Comando sort",
+            "href": "/bioinfo_pal_norte/docs/bash/sort",
+            "docId": "bash/sort",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Redirección de salida y tuberías",
+            "href": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes",
+            "docId": "bash/stdoutput_pipes",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Creación de un script",
+            "href": "/bioinfo_pal_norte/docs/bash/script",
+            "docId": "bash/script",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Ejercicios de práctica",
+            "href": "/bioinfo_pal_norte/docs/bash/exercise",
+            "docId": "bash/exercise",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "qiime2",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introducción QIIME 2",
+            "href": "/bioinfo_pal_norte/docs/qiime2/intro",
+            "docId": "qiime2/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Formatos comunes de secuencias",
+            "href": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq",
+            "docId": "qiime2/fasta_fastq",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Instalación de QIIME 2",
+            "href": "/bioinfo_pal_norte/docs/qiime2/installation",
+            "docId": "qiime2/installation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Documentos iniciales",
+            "href": "/bioinfo_pal_norte/docs/qiime2/qiime2_files",
+            "docId": "qiime2/qiime2_files",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Remoción de adaptadores",
+            "href": "/bioinfo_pal_norte/docs/qiime2/adapters",
+            "docId": "qiime2/adapters",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Denoising",
+            "href": "/bioinfo_pal_norte/docs/qiime2/denoising",
+            "docId": "qiime2/denoising",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Asignación taxonómica",
+            "href": "/bioinfo_pal_norte/docs/qiime2/taxonomy",
+            "docId": "qiime2/taxonomy",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Diversidad alfa",
+            "href": "/bioinfo_pal_norte/docs/qiime2/adiv",
+            "docId": "qiime2/adiv",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Diversidad beta",
+            "href": "/bioinfo_pal_norte/docs/qiime2/bdiv",
+            "docId": "qiime2/bdiv",
+            "unlisted": false
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "bash/characteristics": {
+      "id": "bash/characteristics",
+      "title": "Línea de comandos",
+      "description": "Shell",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/chmod": {
+      "id": "bash/chmod",
+      "title": "Cambiar permisos con chmod",
+      "description": "Cuando examinamos el contenido de un directorio mediante el comando ls -l, notamos que la salida se organiza en siete columnas. Nos centraremos en detallar la primera columna (observar la siguiente imagen), que proporciona información crucial sobre los permisos de los archivos. Estos permisos determinan la capacidad de los usuarios para leer (read), modificar (write) y ejecutar los archivos. Esta información se vuelve especialmente relevante en entornos de servidores compartidos, donde se busca otorgar permisos específicos a usuarios particulares. En tales entornos, es común encontrar grupos de trabajo que comparten permisos sobre archivos específicos. Además, existe la posibilidad de otorgar permisos a todos los usuarios, permitiéndoles modificar los archivos según sea necesario.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/cut": {
+      "id": "bash/cut",
+      "title": "Comando cut",
+      "description": "Su funcionalidad principal es recortar y mostrar partes seleccionadas del contenido de un archivo o de la salida de otros comandos, utilizando delimitadores o posiciones específicas. cut es útil para manipular y trabajar con datos tabulares o estructurados, donde es necesario extraer información específica.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/directories_basics": {
+      "id": "bash/directories_basics",
+      "title": "Manipulación de directorios",
+      "description": "Creación de directorios mkdir",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/exercise": {
+      "id": "bash/exercise",
+      "title": "Ejercicios de práctica",
+      "description": "Ejercicio 1: Listar y contar archivos",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/file_tree": {
+      "id": "bash/file_tree",
+      "title": "Organización de archivos y directorios en linux",
+      "description": "En Linux, la organización de los directorios (equivalentes a carpetas o folders en Windows) sigue una jerarquía clara. Cada archivo o directorio creado en Linux estará ubicado dentro de un directorio principal llamado \"root\" (raíz), representado por el símbolo \"/\". Dentro del directorio \"root\", encontramos niveles que representan distintos directorios. Algunos de estos directorios tienen nombres predefinidos y contienen archivos esenciales para el funcionamiento adecuado del sistema, por lo que se recomienda no modificarlos.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/files_basics": {
+      "id": "bash/files_basics",
+      "title": "Manipulación de archivos",
+      "description": "Creación de archivos vacíos con touch",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/files_visualization": {
+      "id": "bash/files_visualization",
+      "title": "Visualización de archivos",
+      "description": "Si bien podemos visualizar los archivos con nano, si no deseamos editar el archivo, queremos ver una fracción del archivo o es un archivo pequeño que queremos visualizar, podemos utilizar less, more y cat.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/grep": {
+      "id": "bash/grep",
+      "title": "Comando grep",
+      "description": "El comando grep es una poderosa herramienta de búsqueda de patrones en archivos o en la salida de otros comandos en sistemas Unix y Linux. Aquí tienes una explicación del comando grep con ejemplos:",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/intro": {
+      "id": "bash/intro",
+      "title": "Introducción Bash",
+      "description": "Este curso ha sido cuidadosamente diseñado con el propósito de familiarizar a los participantes con los fundamentos de UNIX/LINUX, proporcionando las habilidades necesarias para la manipulación efectiva de directorios y archivos, así como su contenido. El conocimiento adquirido a través de este curso representa el primer paso esencial para desarrollar competencias en el manejo de software y la edición de archivos, facilitando así el análisis de datos a través de la línea de comandos.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/man": {
+      "id": "bash/man",
+      "title": "Comandos",
+      "description": "Un comando representa el nombre de un programa particular, cada uno con una tarea específica. Por ejemplo, al introducir el comando date en la terminal, obtendremos la fecha y la hora actuales. Es crucial tener en cuenta que los comandos pueden tener opciones, las cuales se añaden precediendo al nombre del comando.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/nano": {
+      "id": "bash/nano",
+      "title": "Editor de texto nano",
+      "description": "Nano es un editor de texto en modo de terminal, diseñado para ser simple y fácil de usar, especialmente para usuarios novatos o aquellos que prefieren una interfaz más intuitiva. Algunas características clave de Nano incluyen:",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/path": {
+      "id": "bash/path",
+      "title": "Rutas de acceso (pathname)",
+      "description": "Cualquier archivo que se cree, estará almacenado en alguno de los subdirectorios del directorio raíz.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/regular_expressions": {
+      "id": "bash/regular_expressions",
+      "title": "Expresiones regulares y comodines",
+      "description": "Las expresiones regulares (regex) en Bash son patrones de búsqueda utilizados para encontrar y manipular cadenas de texto de manera eficiente. Aquí hay una breve introducción junto con algunos ejemplos básicos:",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/script": {
+      "id": "bash/script",
+      "title": "Creación de un script",
+      "description": "Un script se define como un conjunto de instrucciones en código de programación. Este código contiene una secuencia de comandos u órdenes que se ejecutan de manera secuencial, y generalmente se utilizan para dirigir un flujo de trabajo o controlar el comportamiento de programas. Durante la ejecución, los comandos dentro del script son interpretados por un intérprete, el cual se encarga de ejecutar las instrucciones. En el entorno Unix, estos scripts suelen llevar la extensión .sh.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/sed": {
+      "id": "bash/sed",
+      "title": "Comando sed",
+      "description": "El comando sed (Stream Editor) es una herramienta poderosa para la manipulación de texto en sistemas Unix y Linux. Se utiliza para realizar ediciones en el flujo de texto, ya sea leyendo desde un archivo o mediante la entrada estándar.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/sort": {
+      "id": "bash/sort",
+      "title": "Comando sort",
+      "description": "El comando sort en sistemas Unix y Linux se utiliza para ordenar líneas de texto en un archivo o desde la entrada estándar.",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/ssh_sftp": {
+      "id": "bash/ssh_sftp",
+      "title": "Conexión con ssh y sftp",
+      "description": "SSH (Secure Shell):",
+      "sidebar": "tutorialSidebar"
+    },
+    "bash/stdoutput_pipes": {
+      "id": "bash/stdoutput_pipes",
+      "title": "Redirección de salida y tuberías",
+      "description": "Redirección de Salidas",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/adapters": {
+      "id": "qiime2/adapters",
+      "title": "Remoción de adaptadores",
+      "description": "Como no hemos hecho ningún preprocesamiento a los datos y sabemos que nuestras secuencias tienen adaptadores, los removeremos con cutadapt dentro de QIIME2.",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/adiv": {
+      "id": "qiime2/adiv",
+      "title": "Diversidad alfa",
+      "description": "La diversidad alfa se refiere a la diversidad dentro de un hábitat o una comunidad en particular. Esta puede ser contrastada entre condiciones, como grupos, hábitats, etc. Se utilizan diferentes métricas para medir la diversidad alfa, como la riqueza de especies (número total de especies presentes), la equidad (cómo están distribuidas las abundancias de las especies), y otros índices más complejos que tienen en cuenta la abundancia relativa y la rareza de las especies. Mientras mayor sea la diversidad alfa, es probable que la comunidad sea más resiliente a cambios ambientales y biológicos.",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/bdiv": {
+      "id": "qiime2/bdiv",
+      "title": "Diversidad beta",
+      "description": "La diversidad beta se refiere a la variabilidad en composición de especies entre diferentes hábitats. Se utiliza para cuantificar la heterogeneidad o similitud biológica entre diferentes comunidades o muestras. Los métodos de análisis de diversidad beta pueden incluir el cálculo de índices de disimilitud, como el índice de Jaccard o el índice de Bray-Curtis, y la representación gráfica de relaciones entre muestras mediante análisis de coordenadas principales (PCoA) o análisis de clasificación. La diversidad beta complementa la diversidad alfa (diversidad dentro de una comunidad) proporcionando información sobre cómo las comunidades biológicas difieren entre sí en diferentes ubicaciones o condiciones.",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/denoising": {
+      "id": "qiime2/denoising",
+      "title": "Denoising",
+      "description": "Antes de comenzar el denoising , veamos la ayuda.",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/fasta_fastq": {
+      "id": "qiime2/fasta_fastq",
+      "title": "Formatos comunes de secuencias",
+      "description": "Formato FASTQ",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/installation": {
+      "id": "qiime2/installation",
+      "title": "Instalación de QIIME 2",
+      "description": "Requisitos previos:",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/intro": {
+      "id": "qiime2/intro",
+      "title": "Introducción QIIME 2",
+      "description": "Qiime2 (Quantitative Insights Into Microbial Ecology) es un pipeline desarrollado para el análisis de metataxonomía (Bolyen et al., 2019). Contiene herramientas para limpiar secuencias, agrupar, asignar taxonomía, reconstruir filogenias, inferir métricas de diversidad, abundancia diferencial, etc. Es de código abierto, posee una interfaz gráfica amigable, mucha documentación, tutoriales y foros de ayuda.",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/qiime2_files": {
+      "id": "qiime2/qiime2_files",
+      "title": "Documentos iniciales",
+      "description": "Datos crudos",
+      "sidebar": "tutorialSidebar"
+    },
+    "qiime2/taxonomy": {
+      "id": "qiime2/taxonomy",
+      "title": "Asignación taxonómica",
+      "description": "Utilizaremos sklearn para realizar la asignación taxonómica, por lo tanto utilizaremos una base de datos preentrenada. La puedes encontrar aquí.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

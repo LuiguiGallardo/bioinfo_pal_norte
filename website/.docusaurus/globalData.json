@@ -1,0 +1,168 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/bioinfo_pal_norte/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/bioinfo_pal_norte/docs",
+          "mainDocId": "bash/intro",
+          "docs": [
+            {
+              "id": "bash/characteristics",
+              "path": "/bioinfo_pal_norte/docs/bash/characteristics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/chmod",
+              "path": "/bioinfo_pal_norte/docs/bash/chmod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/cut",
+              "path": "/bioinfo_pal_norte/docs/bash/cut",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/directories_basics",
+              "path": "/bioinfo_pal_norte/docs/bash/directories_basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/exercise",
+              "path": "/bioinfo_pal_norte/docs/bash/exercise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/file_tree",
+              "path": "/bioinfo_pal_norte/docs/bash/file_tree",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/files_basics",
+              "path": "/bioinfo_pal_norte/docs/bash/files_basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/files_visualization",
+              "path": "/bioinfo_pal_norte/docs/bash/files_visualization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/grep",
+              "path": "/bioinfo_pal_norte/docs/bash/grep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/intro",
+              "path": "/bioinfo_pal_norte/docs/bash/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/man",
+              "path": "/bioinfo_pal_norte/docs/bash/man",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/nano",
+              "path": "/bioinfo_pal_norte/docs/bash/nano",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/path",
+              "path": "/bioinfo_pal_norte/docs/bash/path",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/regular_expressions",
+              "path": "/bioinfo_pal_norte/docs/bash/regular_expressions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/script",
+              "path": "/bioinfo_pal_norte/docs/bash/script",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/sed",
+              "path": "/bioinfo_pal_norte/docs/bash/sed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/sort",
+              "path": "/bioinfo_pal_norte/docs/bash/sort",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/ssh_sftp",
+              "path": "/bioinfo_pal_norte/docs/bash/ssh_sftp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bash/stdoutput_pipes",
+              "path": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/adapters",
+              "path": "/bioinfo_pal_norte/docs/qiime2/adapters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/adiv",
+              "path": "/bioinfo_pal_norte/docs/qiime2/adiv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/bdiv",
+              "path": "/bioinfo_pal_norte/docs/qiime2/bdiv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/denoising",
+              "path": "/bioinfo_pal_norte/docs/qiime2/denoising",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/fasta_fastq",
+              "path": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/installation",
+              "path": "/bioinfo_pal_norte/docs/qiime2/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/intro",
+              "path": "/bioinfo_pal_norte/docs/qiime2/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/qiime2_files",
+              "path": "/bioinfo_pal_norte/docs/qiime2/qiime2_files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qiime2/taxonomy",
+              "path": "/bioinfo_pal_norte/docs/qiime2/taxonomy",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/bioinfo_pal_norte/docs/bash/intro",
+                "label": "bash/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

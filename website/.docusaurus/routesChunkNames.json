@@ -1,0 +1,184 @@
+{
+  "/bioinfo_pal_norte/__docusaurus/debug-e35": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docusaurus-debug-858-0e1"
+    }
+  },
+  "/bioinfo_pal_norte/__docusaurus/debug/config-4f5": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docusaurus-debug-858-0e1"
+    }
+  },
+  "/bioinfo_pal_norte/__docusaurus/debug/content-0e8": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docusaurus-debug-858-0e1"
+    },
+    "allContent": "allContent---bioinfo-pal-norte-docusaurus-debug-content-246-778"
+  },
+  "/bioinfo_pal_norte/__docusaurus/debug/globalData-aeb": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docusaurus-debug-858-0e1"
+    }
+  },
+  "/bioinfo_pal_norte/__docusaurus/debug/metadata-bae": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docusaurus-debug-858-0e1"
+    }
+  },
+  "/bioinfo_pal_norte/__docusaurus/debug/registry-f09": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docusaurus-debug-858-0e1"
+    }
+  },
+  "/bioinfo_pal_norte/__docusaurus/debug/routes-6cf": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docusaurus-debug-858-0e1"
+    }
+  },
+  "/bioinfo_pal_norte/markdown-page-a5f": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-markdown-page-922-60a"
+    },
+    "content": "content---bioinfo-pal-norte-markdown-page-393-f61"
+  },
+  "/bioinfo_pal_norte/docs-456": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-docsb-8-f-fe1"
+    }
+  },
+  "/bioinfo_pal_norte/docs-623": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---bioinfo-pal-norte-docs-935-243"
+  },
+  "/bioinfo_pal_norte/docs-264": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/bioinfo_pal_norte/docs/bash/characteristics-2db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-characteristicsd-90-191"
+  },
+  "/bioinfo_pal_norte/docs/bash/chmod-f92": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-chmod-8-ac-a49"
+  },
+  "/bioinfo_pal_norte/docs/bash/cut-9ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-cut-421-dbe"
+  },
+  "/bioinfo_pal_norte/docs/bash/directories_basics-3e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-directories-basics-4-bb-c02"
+  },
+  "/bioinfo_pal_norte/docs/bash/exercise-172": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-exercise-631-745"
+  },
+  "/bioinfo_pal_norte/docs/bash/file_tree-773": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-file-tree-11-b-ed0"
+  },
+  "/bioinfo_pal_norte/docs/bash/files_basics-f97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-files-basicsbe-3-7c4"
+  },
+  "/bioinfo_pal_norte/docs/bash/files_visualization-7ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-files-visualization-1-ad-d99"
+  },
+  "/bioinfo_pal_norte/docs/bash/grep-297": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-grep-0-c-5-10c"
+  },
+  "/bioinfo_pal_norte/docs/bash/intro-ff4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-introc-10-b51"
+  },
+  "/bioinfo_pal_norte/docs/bash/man-2b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-mand-1-a-c30"
+  },
+  "/bioinfo_pal_norte/docs/bash/nano-9ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-nanodda-8ef"
+  },
+  "/bioinfo_pal_norte/docs/bash/path-011": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-path-6-fe-0ae"
+  },
+  "/bioinfo_pal_norte/docs/bash/regular_expressions-6bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-regular-expressions-920-b93"
+  },
+  "/bioinfo_pal_norte/docs/bash/script-0a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-script-546-0fb"
+  },
+  "/bioinfo_pal_norte/docs/bash/sed-45d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-sedd-86-679"
+  },
+  "/bioinfo_pal_norte/docs/bash/sort-970": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-sortbcc-479"
+  },
+  "/bioinfo_pal_norte/docs/bash/ssh_sftp-32f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-ssh-sftpa-0-d-707"
+  },
+  "/bioinfo_pal_norte/docs/bash/stdoutput_pipes-4eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-bash-stdoutput-pipes-479-d35"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/adapters-fca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-adapters-555-516"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/adiv-113": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-adivb-52-619"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/bdiv-638": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-bdived-7-c11"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/denoising-db6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-denoisingb-03-51c"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/fasta_fastq-ed4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-fasta-fastq-98-c-780"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/installation-9d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-installation-869-1aa"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/intro-5f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-intro-329-4ee"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/qiime2_files-7e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-qiime-2-files-1-cc-741"
+  },
+  "/bioinfo_pal_norte/docs/qiime2/taxonomy-b88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bioinfo-pal-norte-docs-qiime-2-taxonomy-423-d1a"
+  },
+  "/bioinfo_pal_norte/-04f": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---bioinfo-pal-norte-markdown-page-922-60a"
+    },
+    "config": "config---bioinfo-pal-norte-5-e-9-ca1"
+  }
+}

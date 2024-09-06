@@ -1,0 +1,26 @@
+{
+  "id": "bash/directories_basics",
+  "title": "Manipulación de directorios",
+  "description": "Creación de directorios mkdir",
+  "source": "@site/docs/bash/directories_basics.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/directories_basics",
+  "permalink": "/bioinfo_pal_norte/docs/bash/directories_basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manipulación de archivos",
+    "permalink": "/bioinfo_pal_norte/docs/bash/files_basics"
+  },
+  "next": {
+    "title": "Expresiones regulares y comodines",
+    "permalink": "/bioinfo_pal_norte/docs/bash/regular_expressions"
+  }
+}

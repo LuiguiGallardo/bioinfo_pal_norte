@@ -1,0 +1,26 @@
+{
+  "id": "qiime2/installation",
+  "title": "Instalación de QIIME 2",
+  "description": "Requisitos previos:",
+  "source": "@site/docs/qiime2/installation.md",
+  "sourceDirName": "qiime2",
+  "slug": "/qiime2/installation",
+  "permalink": "/bioinfo_pal_norte/docs/qiime2/installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formatos comunes de secuencias",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq"
+  },
+  "next": {
+    "title": "Documentos iniciales",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files"
+  }
+}

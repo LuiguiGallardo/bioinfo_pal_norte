@@ -1,0 +1,26 @@
+{
+  "id": "bash/sed",
+  "title": "Comando sed",
+  "description": "El comando sed (Stream Editor) es una herramienta poderosa para la manipulación de texto en sistemas Unix y Linux. Se utiliza para realizar ediciones en el flujo de texto, ya sea leyendo desde un archivo o mediante la entrada estándar.",
+  "source": "@site/docs/bash/sed.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/sed",
+  "permalink": "/bioinfo_pal_norte/docs/bash/sed",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comando grep",
+    "permalink": "/bioinfo_pal_norte/docs/bash/grep"
+  },
+  "next": {
+    "title": "Comando sort",
+    "permalink": "/bioinfo_pal_norte/docs/bash/sort"
+  }
+}

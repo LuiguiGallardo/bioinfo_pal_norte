@@ -1,0 +1,26 @@
+{
+  "id": "bash/exercise",
+  "title": "Ejercicios de práctica",
+  "description": "Ejercicio 1: Listar y contar archivos",
+  "source": "@site/docs/bash/exercise.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/exercise",
+  "permalink": "/bioinfo_pal_norte/docs/bash/exercise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creación de un script",
+    "permalink": "/bioinfo_pal_norte/docs/bash/script"
+  },
+  "next": {
+    "title": "Introducción QIIME 2",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/intro"
+  }
+}

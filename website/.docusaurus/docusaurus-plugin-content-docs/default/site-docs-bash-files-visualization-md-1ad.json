@@ -1,0 +1,26 @@
+{
+  "id": "bash/files_visualization",
+  "title": "Visualización de archivos",
+  "description": "Si bien podemos visualizar los archivos con nano, si no deseamos editar el archivo, queremos ver una fracción del archivo o es un archivo pequeño que queremos visualizar, podemos utilizar less, more y cat.",
+  "source": "@site/docs/bash/files_visualization.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/files_visualization",
+  "permalink": "/bioinfo_pal_norte/docs/bash/files_visualization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Editor de texto nano",
+    "permalink": "/bioinfo_pal_norte/docs/bash/nano"
+  },
+  "next": {
+    "title": "Comando cut",
+    "permalink": "/bioinfo_pal_norte/docs/bash/cut"
+  }
+}

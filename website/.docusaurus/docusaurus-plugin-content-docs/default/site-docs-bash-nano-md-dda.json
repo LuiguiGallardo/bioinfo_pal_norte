@@ -1,0 +1,26 @@
+{
+  "id": "bash/nano",
+  "title": "Editor de texto nano",
+  "description": "Nano es un editor de texto en modo de terminal, diseñado para ser simple y fácil de usar, especialmente para usuarios novatos o aquellos que prefieren una interfaz más intuitiva. Algunas características clave de Nano incluyen:",
+  "source": "@site/docs/bash/nano.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/nano",
+  "permalink": "/bioinfo_pal_norte/docs/bash/nano",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cambiar permisos con chmod",
+    "permalink": "/bioinfo_pal_norte/docs/bash/chmod"
+  },
+  "next": {
+    "title": "Visualización de archivos",
+    "permalink": "/bioinfo_pal_norte/docs/bash/files_visualization"
+  }
+}

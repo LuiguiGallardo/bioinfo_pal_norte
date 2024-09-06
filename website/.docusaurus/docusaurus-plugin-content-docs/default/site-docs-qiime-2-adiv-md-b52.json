@@ -1,0 +1,26 @@
+{
+  "id": "qiime2/adiv",
+  "title": "Diversidad alfa",
+  "description": "La diversidad alfa se refiere a la diversidad dentro de un hábitat o una comunidad en particular. Esta puede ser contrastada entre condiciones, como grupos, hábitats, etc. Se utilizan diferentes métricas para medir la diversidad alfa, como la riqueza de especies (número total de especies presentes), la equidad (cómo están distribuidas las abundancias de las especies), y otros índices más complejos que tienen en cuenta la abundancia relativa y la rareza de las especies. Mientras mayor sea la diversidad alfa, es probable que la comunidad sea más resiliente a cambios ambientales y biológicos.",
+  "source": "@site/docs/qiime2/adiv.md",
+  "sourceDirName": "qiime2",
+  "slug": "/qiime2/adiv",
+  "permalink": "/bioinfo_pal_norte/docs/qiime2/adiv",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Asignación taxonómica",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/taxonomy"
+  },
+  "next": {
+    "title": "Diversidad beta",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/bdiv"
+  }
+}

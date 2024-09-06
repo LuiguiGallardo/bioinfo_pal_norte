@@ -1,0 +1,26 @@
+{
+  "id": "bash/grep",
+  "title": "Comando grep",
+  "description": "El comando grep es una poderosa herramienta de búsqueda de patrones en archivos o en la salida de otros comandos en sistemas Unix y Linux. Aquí tienes una explicación del comando grep con ejemplos:",
+  "source": "@site/docs/bash/grep.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/grep",
+  "permalink": "/bioinfo_pal_norte/docs/bash/grep",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comando cut",
+    "permalink": "/bioinfo_pal_norte/docs/bash/cut"
+  },
+  "next": {
+    "title": "Comando sed",
+    "permalink": "/bioinfo_pal_norte/docs/bash/sed"
+  }
+}

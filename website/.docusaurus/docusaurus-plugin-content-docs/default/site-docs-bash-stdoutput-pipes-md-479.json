@@ -1,0 +1,26 @@
+{
+  "id": "bash/stdoutput_pipes",
+  "title": "Redirección de salida y tuberías",
+  "description": "Redirección de Salidas",
+  "source": "@site/docs/bash/stdoutput_pipes.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/stdoutput_pipes",
+  "permalink": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comando sort",
+    "permalink": "/bioinfo_pal_norte/docs/bash/sort"
+  },
+  "next": {
+    "title": "Creación de un script",
+    "permalink": "/bioinfo_pal_norte/docs/bash/script"
+  }
+}

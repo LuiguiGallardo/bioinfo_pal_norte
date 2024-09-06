@@ -1,0 +1,26 @@
+{
+  "id": "bash/files_basics",
+  "title": "Manipulación de archivos",
+  "description": "Creación de archivos vacíos con touch",
+  "source": "@site/docs/bash/files_basics.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/files_basics",
+  "permalink": "/bioinfo_pal_norte/docs/bash/files_basics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rutas de acceso (pathname)",
+    "permalink": "/bioinfo_pal_norte/docs/bash/path"
+  },
+  "next": {
+    "title": "Manipulación de directorios",
+    "permalink": "/bioinfo_pal_norte/docs/bash/directories_basics"
+  }
+}

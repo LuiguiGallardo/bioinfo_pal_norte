@@ -1,0 +1,26 @@
+{
+  "id": "qiime2/taxonomy",
+  "title": "Asignación taxonómica",
+  "description": "Utilizaremos sklearn para realizar la asignación taxonómica, por lo tanto utilizaremos una base de datos preentrenada. La puedes encontrar aquí.",
+  "source": "@site/docs/qiime2/taxonomy.md",
+  "sourceDirName": "qiime2",
+  "slug": "/qiime2/taxonomy",
+  "permalink": "/bioinfo_pal_norte/docs/qiime2/taxonomy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Denoising",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/denoising"
+  },
+  "next": {
+    "title": "Diversidad alfa",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/adiv"
+  }
+}

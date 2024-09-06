@@ -1,0 +1,26 @@
+{
+  "id": "bash/file_tree",
+  "title": "Organización de archivos y directorios en linux",
+  "description": "En Linux, la organización de los directorios (equivalentes a carpetas o folders en Windows) sigue una jerarquía clara. Cada archivo o directorio creado en Linux estará ubicado dentro de un directorio principal llamado \"root\" (raíz), representado por el símbolo \"/\". Dentro del directorio \"root\", encontramos niveles que representan distintos directorios. Algunos de estos directorios tienen nombres predefinidos y contienen archivos esenciales para el funcionamiento adecuado del sistema, por lo que se recomienda no modificarlos.",
+  "source": "@site/docs/bash/file_tree.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/file_tree",
+  "permalink": "/bioinfo_pal_norte/docs/bash/file_tree",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comandos",
+    "permalink": "/bioinfo_pal_norte/docs/bash/man"
+  },
+  "next": {
+    "title": "Rutas de acceso (pathname)",
+    "permalink": "/bioinfo_pal_norte/docs/bash/path"
+  }
+}

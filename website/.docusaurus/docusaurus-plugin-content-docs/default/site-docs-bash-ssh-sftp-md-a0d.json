@@ -1,0 +1,26 @@
+{
+  "id": "bash/ssh_sftp",
+  "title": "Conexión con ssh y sftp",
+  "description": "SSH (Secure Shell):",
+  "source": "@site/docs/bash/ssh_sftp.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/ssh_sftp",
+  "permalink": "/bioinfo_pal_norte/docs/bash/ssh_sftp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Línea de comandos",
+    "permalink": "/bioinfo_pal_norte/docs/bash/characteristics"
+  },
+  "next": {
+    "title": "Comandos",
+    "permalink": "/bioinfo_pal_norte/docs/bash/man"
+  }
+}

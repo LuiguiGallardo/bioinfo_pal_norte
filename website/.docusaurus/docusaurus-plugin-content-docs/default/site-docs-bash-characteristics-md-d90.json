@@ -1,0 +1,26 @@
+{
+  "id": "bash/characteristics",
+  "title": "Línea de comandos",
+  "description": "Shell",
+  "source": "@site/docs/bash/characteristics.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/characteristics",
+  "permalink": "/bioinfo_pal_norte/docs/bash/characteristics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción Bash",
+    "permalink": "/bioinfo_pal_norte/docs/bash/intro"
+  },
+  "next": {
+    "title": "Conexión con ssh y sftp",
+    "permalink": "/bioinfo_pal_norte/docs/bash/ssh_sftp"
+  }
+}

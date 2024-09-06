@@ -1,0 +1,26 @@
+{
+  "id": "qiime2/adapters",
+  "title": "Remoción de adaptadores",
+  "description": "Como no hemos hecho ningún preprocesamiento a los datos y sabemos que nuestras secuencias tienen adaptadores, los removeremos con cutadapt dentro de QIIME2.",
+  "source": "@site/docs/qiime2/adapters.md",
+  "sourceDirName": "qiime2",
+  "slug": "/qiime2/adapters",
+  "permalink": "/bioinfo_pal_norte/docs/qiime2/adapters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentos iniciales",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files"
+  },
+  "next": {
+    "title": "Denoising",
+    "permalink": "/bioinfo_pal_norte/docs/qiime2/denoising"
+  }
+}

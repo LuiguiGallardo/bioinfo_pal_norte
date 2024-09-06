@@ -1,0 +1,26 @@
+{
+  "id": "bash/regular_expressions",
+  "title": "Expresiones regulares y comodines",
+  "description": "Las expresiones regulares (regex) en Bash son patrones de búsqueda utilizados para encontrar y manipular cadenas de texto de manera eficiente. Aquí hay una breve introducción junto con algunos ejemplos básicos:",
+  "source": "@site/docs/bash/regular_expressions.md",
+  "sourceDirName": "bash",
+  "slug": "/bash/regular_expressions",
+  "permalink": "/bioinfo_pal_norte/docs/bash/regular_expressions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manipulación de directorios",
+    "permalink": "/bioinfo_pal_norte/docs/bash/directories_basics"
+  },
+  "next": {
+    "title": "Cambiar permisos con chmod",
+    "permalink": "/bioinfo_pal_norte/docs/bash/chmod"
+  }
+}
