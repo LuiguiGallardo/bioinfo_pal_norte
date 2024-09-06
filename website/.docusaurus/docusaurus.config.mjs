@@ -7,7 +7,7 @@ export default {
   "title": "Herramientas Bioinformáticas para el análisis de Microbiota",
   "tagline": "Herramientas Bioinformáticas para el análisis de Microbiota",
   "favicon": "img/logo.png",
-  "url": "https://www.bioinfopalnorte.com",
+  "url": "https://bioinfopalnorte.com",
   "baseUrl": "/",
   "organizationName": "luiguigallardo",
   "projectName": "bioinfo_pal_norte",
