@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/bioinfo_pal_norte/docs",
-          "tagsPath": "/bioinfo_pal_norte/docs/tags",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/luigui/Documents/bioinfo_pal_norte/website/sidebars.js",
@@ -24,7 +24,7 @@
               "source": "@site/docs/bash/characteristics.md",
               "sourceDirName": "bash",
               "slug": "/bash/characteristics",
-              "permalink": "/bioinfo_pal_norte/docs/bash/characteristics",
+              "permalink": "/docs/bash/characteristics",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -36,11 +36,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introducción Bash",
-                "permalink": "/bioinfo_pal_norte/docs/bash/intro"
+                "permalink": "/docs/bash/intro"
               },
               "next": {
                 "title": "Conexión con ssh y sftp",
-                "permalink": "/bioinfo_pal_norte/docs/bash/ssh_sftp"
+                "permalink": "/docs/bash/ssh_sftp"
               }
             },
             {
@@ -50,7 +50,7 @@
               "source": "@site/docs/bash/chmod.md",
               "sourceDirName": "bash",
               "slug": "/bash/chmod",
-              "permalink": "/bioinfo_pal_norte/docs/bash/chmod",
+              "permalink": "/docs/bash/chmod",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -62,11 +62,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Expresiones regulares y comodines",
-                "permalink": "/bioinfo_pal_norte/docs/bash/regular_expressions"
+                "permalink": "/docs/bash/regular_expressions"
               },
               "next": {
                 "title": "Editor de texto nano",
-                "permalink": "/bioinfo_pal_norte/docs/bash/nano"
+                "permalink": "/docs/bash/nano"
               }
             },
             {
@@ -76,7 +76,7 @@
               "source": "@site/docs/bash/cut.md",
               "sourceDirName": "bash",
               "slug": "/bash/cut",
-              "permalink": "/bioinfo_pal_norte/docs/bash/cut",
+              "permalink": "/docs/bash/cut",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -88,11 +88,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Visualización de archivos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/files_visualization"
+                "permalink": "/docs/bash/files_visualization"
               },
               "next": {
                 "title": "Comando grep",
-                "permalink": "/bioinfo_pal_norte/docs/bash/grep"
+                "permalink": "/docs/bash/grep"
               }
             },
             {
@@ -102,7 +102,7 @@
               "source": "@site/docs/bash/directories_basics.md",
               "sourceDirName": "bash",
               "slug": "/bash/directories_basics",
-              "permalink": "/bioinfo_pal_norte/docs/bash/directories_basics",
+              "permalink": "/docs/bash/directories_basics",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -114,11 +114,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manipulación de archivos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/files_basics"
+                "permalink": "/docs/bash/files_basics"
               },
               "next": {
                 "title": "Expresiones regulares y comodines",
-                "permalink": "/bioinfo_pal_norte/docs/bash/regular_expressions"
+                "permalink": "/docs/bash/regular_expressions"
               }
             },
             {
@@ -128,7 +128,7 @@
               "source": "@site/docs/bash/exercise.md",
               "sourceDirName": "bash",
               "slug": "/bash/exercise",
-              "permalink": "/bioinfo_pal_norte/docs/bash/exercise",
+              "permalink": "/docs/bash/exercise",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -140,11 +140,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Creación de un script",
-                "permalink": "/bioinfo_pal_norte/docs/bash/script"
+                "permalink": "/docs/bash/script"
               },
               "next": {
                 "title": "Introducción QIIME 2",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/intro"
+                "permalink": "/docs/qiime2/intro"
               }
             },
             {
@@ -154,7 +154,7 @@
               "source": "@site/docs/bash/file_tree.md",
               "sourceDirName": "bash",
               "slug": "/bash/file_tree",
-              "permalink": "/bioinfo_pal_norte/docs/bash/file_tree",
+              "permalink": "/docs/bash/file_tree",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -166,11 +166,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Comandos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/man"
+                "permalink": "/docs/bash/man"
               },
               "next": {
                 "title": "Rutas de acceso (pathname)",
-                "permalink": "/bioinfo_pal_norte/docs/bash/path"
+                "permalink": "/docs/bash/path"
               }
             },
             {
@@ -180,7 +180,7 @@
               "source": "@site/docs/bash/files_basics.md",
               "sourceDirName": "bash",
               "slug": "/bash/files_basics",
-              "permalink": "/bioinfo_pal_norte/docs/bash/files_basics",
+              "permalink": "/docs/bash/files_basics",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -192,11 +192,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Rutas de acceso (pathname)",
-                "permalink": "/bioinfo_pal_norte/docs/bash/path"
+                "permalink": "/docs/bash/path"
               },
               "next": {
                 "title": "Manipulación de directorios",
-                "permalink": "/bioinfo_pal_norte/docs/bash/directories_basics"
+                "permalink": "/docs/bash/directories_basics"
               }
             },
             {
@@ -206,7 +206,7 @@
               "source": "@site/docs/bash/files_visualization.md",
               "sourceDirName": "bash",
               "slug": "/bash/files_visualization",
-              "permalink": "/bioinfo_pal_norte/docs/bash/files_visualization",
+              "permalink": "/docs/bash/files_visualization",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -218,11 +218,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Editor de texto nano",
-                "permalink": "/bioinfo_pal_norte/docs/bash/nano"
+                "permalink": "/docs/bash/nano"
               },
               "next": {
                 "title": "Comando cut",
-                "permalink": "/bioinfo_pal_norte/docs/bash/cut"
+                "permalink": "/docs/bash/cut"
               }
             },
             {
@@ -232,7 +232,7 @@
               "source": "@site/docs/bash/grep.md",
               "sourceDirName": "bash",
               "slug": "/bash/grep",
-              "permalink": "/bioinfo_pal_norte/docs/bash/grep",
+              "permalink": "/docs/bash/grep",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -244,11 +244,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Comando cut",
-                "permalink": "/bioinfo_pal_norte/docs/bash/cut"
+                "permalink": "/docs/bash/cut"
               },
               "next": {
                 "title": "Comando sed",
-                "permalink": "/bioinfo_pal_norte/docs/bash/sed"
+                "permalink": "/docs/bash/sed"
               }
             },
             {
@@ -258,7 +258,7 @@
               "source": "@site/docs/bash/intro.md",
               "sourceDirName": "bash",
               "slug": "/bash/intro",
-              "permalink": "/bioinfo_pal_norte/docs/bash/intro",
+              "permalink": "/docs/bash/intro",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -270,7 +270,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Línea de comandos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/characteristics"
+                "permalink": "/docs/bash/characteristics"
               }
             },
             {
@@ -280,7 +280,7 @@
               "source": "@site/docs/bash/man.md",
               "sourceDirName": "bash",
               "slug": "/bash/man",
-              "permalink": "/bioinfo_pal_norte/docs/bash/man",
+              "permalink": "/docs/bash/man",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -292,11 +292,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Conexión con ssh y sftp",
-                "permalink": "/bioinfo_pal_norte/docs/bash/ssh_sftp"
+                "permalink": "/docs/bash/ssh_sftp"
               },
               "next": {
                 "title": "Organización de archivos y directorios en linux",
-                "permalink": "/bioinfo_pal_norte/docs/bash/file_tree"
+                "permalink": "/docs/bash/file_tree"
               }
             },
             {
@@ -306,7 +306,7 @@
               "source": "@site/docs/bash/nano.md",
               "sourceDirName": "bash",
               "slug": "/bash/nano",
-              "permalink": "/bioinfo_pal_norte/docs/bash/nano",
+              "permalink": "/docs/bash/nano",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -318,11 +318,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Cambiar permisos con chmod",
-                "permalink": "/bioinfo_pal_norte/docs/bash/chmod"
+                "permalink": "/docs/bash/chmod"
               },
               "next": {
                 "title": "Visualización de archivos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/files_visualization"
+                "permalink": "/docs/bash/files_visualization"
               }
             },
             {
@@ -332,7 +332,7 @@
               "source": "@site/docs/bash/path.md",
               "sourceDirName": "bash",
               "slug": "/bash/path",
-              "permalink": "/bioinfo_pal_norte/docs/bash/path",
+              "permalink": "/docs/bash/path",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -344,11 +344,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Organización de archivos y directorios en linux",
-                "permalink": "/bioinfo_pal_norte/docs/bash/file_tree"
+                "permalink": "/docs/bash/file_tree"
               },
               "next": {
                 "title": "Manipulación de archivos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/files_basics"
+                "permalink": "/docs/bash/files_basics"
               }
             },
             {
@@ -358,7 +358,7 @@
               "source": "@site/docs/bash/regular_expressions.md",
               "sourceDirName": "bash",
               "slug": "/bash/regular_expressions",
-              "permalink": "/bioinfo_pal_norte/docs/bash/regular_expressions",
+              "permalink": "/docs/bash/regular_expressions",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -370,11 +370,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manipulación de directorios",
-                "permalink": "/bioinfo_pal_norte/docs/bash/directories_basics"
+                "permalink": "/docs/bash/directories_basics"
               },
               "next": {
                 "title": "Cambiar permisos con chmod",
-                "permalink": "/bioinfo_pal_norte/docs/bash/chmod"
+                "permalink": "/docs/bash/chmod"
               }
             },
             {
@@ -384,7 +384,7 @@
               "source": "@site/docs/bash/script.md",
               "sourceDirName": "bash",
               "slug": "/bash/script",
-              "permalink": "/bioinfo_pal_norte/docs/bash/script",
+              "permalink": "/docs/bash/script",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -396,11 +396,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Redirección de salida y tuberías",
-                "permalink": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes"
+                "permalink": "/docs/bash/stdoutput_pipes"
               },
               "next": {
                 "title": "Ejercicios de práctica",
-                "permalink": "/bioinfo_pal_norte/docs/bash/exercise"
+                "permalink": "/docs/bash/exercise"
               }
             },
             {
@@ -410,7 +410,7 @@
               "source": "@site/docs/bash/sed.md",
               "sourceDirName": "bash",
               "slug": "/bash/sed",
-              "permalink": "/bioinfo_pal_norte/docs/bash/sed",
+              "permalink": "/docs/bash/sed",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -422,11 +422,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Comando grep",
-                "permalink": "/bioinfo_pal_norte/docs/bash/grep"
+                "permalink": "/docs/bash/grep"
               },
               "next": {
                 "title": "Comando sort",
-                "permalink": "/bioinfo_pal_norte/docs/bash/sort"
+                "permalink": "/docs/bash/sort"
               }
             },
             {
@@ -436,7 +436,7 @@
               "source": "@site/docs/bash/sort.md",
               "sourceDirName": "bash",
               "slug": "/bash/sort",
-              "permalink": "/bioinfo_pal_norte/docs/bash/sort",
+              "permalink": "/docs/bash/sort",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -448,11 +448,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Comando sed",
-                "permalink": "/bioinfo_pal_norte/docs/bash/sed"
+                "permalink": "/docs/bash/sed"
               },
               "next": {
                 "title": "Redirección de salida y tuberías",
-                "permalink": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes"
+                "permalink": "/docs/bash/stdoutput_pipes"
               }
             },
             {
@@ -462,7 +462,7 @@
               "source": "@site/docs/bash/ssh_sftp.md",
               "sourceDirName": "bash",
               "slug": "/bash/ssh_sftp",
-              "permalink": "/bioinfo_pal_norte/docs/bash/ssh_sftp",
+              "permalink": "/docs/bash/ssh_sftp",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -474,11 +474,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Línea de comandos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/characteristics"
+                "permalink": "/docs/bash/characteristics"
               },
               "next": {
                 "title": "Comandos",
-                "permalink": "/bioinfo_pal_norte/docs/bash/man"
+                "permalink": "/docs/bash/man"
               }
             },
             {
@@ -488,7 +488,7 @@
               "source": "@site/docs/bash/stdoutput_pipes.md",
               "sourceDirName": "bash",
               "slug": "/bash/stdoutput_pipes",
-              "permalink": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes",
+              "permalink": "/docs/bash/stdoutput_pipes",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -500,11 +500,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Comando sort",
-                "permalink": "/bioinfo_pal_norte/docs/bash/sort"
+                "permalink": "/docs/bash/sort"
               },
               "next": {
                 "title": "Creación de un script",
-                "permalink": "/bioinfo_pal_norte/docs/bash/script"
+                "permalink": "/docs/bash/script"
               }
             },
             {
@@ -514,7 +514,7 @@
               "source": "@site/docs/qiime2/adapters.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/adapters",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/adapters",
+              "permalink": "/docs/qiime2/adapters",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -526,11 +526,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Documentos iniciales",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files"
+                "permalink": "/docs/qiime2/qiime2_files"
               },
               "next": {
                 "title": "Denoising",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/denoising"
+                "permalink": "/docs/qiime2/denoising"
               }
             },
             {
@@ -540,7 +540,7 @@
               "source": "@site/docs/qiime2/adiv.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/adiv",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/adiv",
+              "permalink": "/docs/qiime2/adiv",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -552,11 +552,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Asignación taxonómica",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/taxonomy"
+                "permalink": "/docs/qiime2/taxonomy"
               },
               "next": {
                 "title": "Diversidad beta",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/bdiv"
+                "permalink": "/docs/qiime2/bdiv"
               }
             },
             {
@@ -566,7 +566,7 @@
               "source": "@site/docs/qiime2/bdiv.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/bdiv",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/bdiv",
+              "permalink": "/docs/qiime2/bdiv",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -578,7 +578,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Diversidad alfa",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/adiv"
+                "permalink": "/docs/qiime2/adiv"
               }
             },
             {
@@ -588,7 +588,7 @@
               "source": "@site/docs/qiime2/denoising.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/denoising",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/denoising",
+              "permalink": "/docs/qiime2/denoising",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -600,11 +600,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Remoción de adaptadores",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/adapters"
+                "permalink": "/docs/qiime2/adapters"
               },
               "next": {
                 "title": "Asignación taxonómica",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/taxonomy"
+                "permalink": "/docs/qiime2/taxonomy"
               }
             },
             {
@@ -614,7 +614,7 @@
               "source": "@site/docs/qiime2/fasta_fastq.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/fasta_fastq",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq",
+              "permalink": "/docs/qiime2/fasta_fastq",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -626,11 +626,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introducción QIIME 2",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/intro"
+                "permalink": "/docs/qiime2/intro"
               },
               "next": {
                 "title": "Instalación de QIIME 2",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/installation"
+                "permalink": "/docs/qiime2/installation"
               }
             },
             {
@@ -640,7 +640,7 @@
               "source": "@site/docs/qiime2/installation.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/installation",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/installation",
+              "permalink": "/docs/qiime2/installation",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -652,11 +652,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Formatos comunes de secuencias",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq"
+                "permalink": "/docs/qiime2/fasta_fastq"
               },
               "next": {
                 "title": "Documentos iniciales",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files"
+                "permalink": "/docs/qiime2/qiime2_files"
               }
             },
             {
@@ -666,7 +666,7 @@
               "source": "@site/docs/qiime2/intro.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/intro",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/intro",
+              "permalink": "/docs/qiime2/intro",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -678,11 +678,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Ejercicios de práctica",
-                "permalink": "/bioinfo_pal_norte/docs/bash/exercise"
+                "permalink": "/docs/bash/exercise"
               },
               "next": {
                 "title": "Formatos comunes de secuencias",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq"
+                "permalink": "/docs/qiime2/fasta_fastq"
               }
             },
             {
@@ -692,7 +692,7 @@
               "source": "@site/docs/qiime2/qiime2_files.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/qiime2_files",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/qiime2_files",
+              "permalink": "/docs/qiime2/qiime2_files",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -704,11 +704,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Instalación de QIIME 2",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/installation"
+                "permalink": "/docs/qiime2/installation"
               },
               "next": {
                 "title": "Remoción de adaptadores",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/adapters"
+                "permalink": "/docs/qiime2/adapters"
               }
             },
             {
@@ -718,7 +718,7 @@
               "source": "@site/docs/qiime2/taxonomy.md",
               "sourceDirName": "qiime2",
               "slug": "/qiime2/taxonomy",
-              "permalink": "/bioinfo_pal_norte/docs/qiime2/taxonomy",
+              "permalink": "/docs/qiime2/taxonomy",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -730,11 +730,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Denoising",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/denoising"
+                "permalink": "/docs/qiime2/denoising"
               },
               "next": {
                 "title": "Diversidad alfa",
-                "permalink": "/bioinfo_pal_norte/docs/qiime2/adiv"
+                "permalink": "/docs/qiime2/adiv"
               }
             }
           ],
@@ -881,7 +881,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/bioinfo_pal_norte/blog/tags",
+      "blogTagsListPath": "/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -889,12 +889,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/bioinfo_pal_norte/",
+        "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/bioinfo_pal_norte/markdown-page",
+        "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

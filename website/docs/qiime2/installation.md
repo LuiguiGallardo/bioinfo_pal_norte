@@ -11,22 +11,30 @@ sidebar_position: 3
 **Pasos generales para la instalación:**
 
 1. **Crear un entorno virtual (opcional pero recomendado):**
-   - Crea un entorno virtual para QIIME 2 utilizando `conda`. Puedes instalar `conda` desde [Anaconda](https://www.anaconda.com/products/individual) o [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+   - Crea un entorno virtual para QIIME 2 utilizando `conda`. Puedes instalar `conda` desde [Anaconda](https://www.anaconda.com/products/individual) o [Miniconda](https://docs.conda.io/en/latest/miniconda.html). Para instalar `conda` se pueden utilizar los siguientes comandos:
 
-     ```bash
-     conda create -n qiime2-2023.9 python=3.10
-     conda activate qiime2-2023.9
-     ```
+      ```bash
+      curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 
-   - Ten en cuenta que "2023.9" es la versión específica de QIIME 2. Puedes verificar la versión más reciente en la [página de instalación de QIIME 2](https://docs.qiime2.org/2023.9/install/).
+      bash Miniforge3-Linux-x86_64.sh
+
+      source ~/.bashrc
+
+      conda config --add channels bioconda
+
+      conda config --add channels conda-forge
+      ```
+
+   - Ten en cuenta que "2024.5" es la versión específica de QIIME 2. Puedes verificar la versión más reciente en la [página de instalación de QIIME 2](https://docs.qiime2.org/2024.5/install/).
 
 2. **Instalar QIIME 2:**
    - Utiliza el siguiente comando para instalar QIIME 2 en el entorno virtual que creaste.
 
-    ```bash
-    wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2023.9-py38-linux-conda.yml
-    conda env create -n qiime2-2023.9 --file qiime2-amplicon-2023.9-py38-linux-conda.yml
-    ```
+      ```bash
+      conda env create -n qiime2-amplicon-2024.5 --file https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2024.5-py39-linux-conda.yml
+
+      conda activate qiime2-amplicon-2024.5
+      ```
 
    - Esto instalará la versión específica de QIIME 2 (2023.9) junto con las dependencias necesarias.
 
@@ -34,16 +42,16 @@ sidebar_position: 3
    - Después de la instalación, activa el entorno QIIME 2.
 
      ```bash
-     conda activate qiime2-2023.9
+     conda activate qiime2-amplicon-2024.5
      ```
 
 4. **Verificar la instalación:**
    - Puedes verificar que QIIME 2 está instalado correctamente ejecutando el siguiente comando:
-
-     ```bash
-     qiime --help
-     ```
+      
+      ```bash
+      qiime info
+      ```
 
    - Esto debería mostrar la ayuda de QIIME 2.
 
-Recuerda que estos pasos están basados en la información disponible hasta la última actualización disponible al 1 de Diciembre del 2023. Te recomiendo consultar la [documentación oficial de QIIME 2](https://docs.qiime2.org/2023.9/install/) para obtener la información más reciente sobre la instalación.
+Recuerda que estos pasos están basados en la información disponible hasta la última actualización disponible al 1 de Diciembre del 2023. Te recomiendo consultar la [documentación oficial de QIIME 2](https://docs.qiime2.org/2024.5/install/) para obtener la información más reciente sobre la instalación.
