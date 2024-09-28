@@ -42,6 +42,6 @@ qiime diversity alpha-group-significance \
 :::info
 Existe una ruta más rápida para obtener tanto diversidad alfa como beta en un solo comando. Para nuestro set de datos podemos utilizar el siguiente comando:
 ```bash
-qiime diversity core-metrics-phylogenetic   --i-phylogeny results/07_rooted-tree.qza  --i-table results/05_feature-table_filter_chloro.qza  --m-metadata-file rawdata/metadata.tsv   --output-dir results/13_core-metrics-results --p-sampling-depth 5000
+qiime diversity core-metrics-phylogenetic   --i-phylogeny results/07_rooted-tree.qza  --i-table results/05_feature-table_filter_chloro.qza  --m-metadata-file rawdata/metadata.tsv   --output-dir results/13_core-metrics-results --p-sampling-depth 1000
 ```
 :::

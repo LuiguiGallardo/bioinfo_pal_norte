@@ -17,6 +17,12 @@ Ahora obtenemos la diversidad beta utilizando la métrica `Unweighted Unifrac`:
 ```bash
 qiime diversity beta-phylogenetic --i-table results/05_feature-table_filter_chloro.qza --i-phylogeny results/07_rooted-tree.qza --p-metric unweighted_unifrac --o-distance-matrix results/11_unweighted_unifrac_distance_matrix.qza
 
+# Para generar la información del PCoA
+qiime diversity pcoa --i-distance-matrix results/11_unweighted_unifrac_distance_matrix.qza --o-pcoa results/11_unweighted_unifrac_pcoa.qza 
+
+# Para graficar el PCoA
+qiime emperor plot --i-pcoa results/11_unweighted_unifrac_pcoa.qza --m-metadata-file rawdata/metadata.tsv --o-visualization results/11_unweighted_unifrac_emperor.qzv
+
 # Para saber si hay diferencias significativas entre los grupos utilizamos
 qiime diversity beta-group-significance --i-distance-matrix results/11_unweighted_unifrac_distance_matrix.qza --m-metadata-file rawdata/metadata.tsv --m-metadata-column group --o-visualization results/12_unweighted-unifrac-body-site-significance.qzv --p-pairwise
 ```
@@ -24,6 +30,6 @@ qiime diversity beta-group-significance --i-distance-matrix results/11_unweighte
 :::info
 Existe una ruta más rápida para obtener tanto diversidad alfa como beta en un solo comando. Para nuestro set de datos podemos utilizar el siguiente comando:
 ```bash
-qiime diversity core-metrics-phylogenetic   --i-phylogeny results/07_rooted-tree.qza  --i-table results/05_feature-table_filter_chloro.qza  --m-metadata-file rawdata/metadata.tsv   --output-dir results/13_core-metrics-results --p-sampling-depth 5000
+qiime diversity core-metrics-phylogenetic   --i-phylogeny results/07_rooted-tree.qza  --i-table results/05_feature-table_filter_chloro.qza  --m-metadata-file rawdata/metadata.tsv   --output-dir results/13_core-metrics-results --p-sampling-depth 1000
 ```
 :::
