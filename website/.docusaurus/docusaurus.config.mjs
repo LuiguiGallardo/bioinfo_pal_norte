@@ -8,7 +8,7 @@ export default {
   "tagline": "Herramientas Bioinformáticas para el análisis de Microbiota",
   "favicon": "img/logo.png",
   "url": "https://www.bioinfopalnorte.com",
-  "baseUrl": "/",
+  "baseUrl": "/bioinfo_pal_norte/",
   "organizationName": "luiguigallardo",
   "projectName": "bioinfo_pal_norte",
   "onBrokenLinks": "throw",
@@ -62,7 +62,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2024,\n        <a href=\"https://www.ibt.unam.mx/\">Instituto de Biotecnología, UNAM.</a>",
+      "copyright": "Copyright © 2026,\n        <a href=\"https://www.ibt.unam.mx/\">Instituto de Biotecnología, UNAM.</a>",
       "links": []
     },
     "prism": {

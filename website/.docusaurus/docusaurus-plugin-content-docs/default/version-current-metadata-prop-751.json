@@ -18,133 +18,133 @@
           {
             "type": "link",
             "label": "Introducción Bash",
-            "href": "/docs/bash/intro",
+            "href": "/bioinfo_pal_norte/docs/bash/intro",
             "docId": "bash/intro",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Línea de comandos",
-            "href": "/docs/bash/characteristics",
+            "href": "/bioinfo_pal_norte/docs/bash/characteristics",
             "docId": "bash/characteristics",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Conexión con ssh y sftp",
-            "href": "/docs/bash/ssh_sftp",
+            "href": "/bioinfo_pal_norte/docs/bash/ssh_sftp",
             "docId": "bash/ssh_sftp",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Comandos",
-            "href": "/docs/bash/man",
+            "href": "/bioinfo_pal_norte/docs/bash/man",
             "docId": "bash/man",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Organización de archivos y directorios en linux",
-            "href": "/docs/bash/file_tree",
+            "href": "/bioinfo_pal_norte/docs/bash/file_tree",
             "docId": "bash/file_tree",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Rutas de acceso (pathname)",
-            "href": "/docs/bash/path",
+            "href": "/bioinfo_pal_norte/docs/bash/path",
             "docId": "bash/path",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Manipulación de archivos",
-            "href": "/docs/bash/files_basics",
+            "href": "/bioinfo_pal_norte/docs/bash/files_basics",
             "docId": "bash/files_basics",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Manipulación de directorios",
-            "href": "/docs/bash/directories_basics",
+            "href": "/bioinfo_pal_norte/docs/bash/directories_basics",
             "docId": "bash/directories_basics",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Expresiones regulares y comodines",
-            "href": "/docs/bash/regular_expressions",
+            "href": "/bioinfo_pal_norte/docs/bash/regular_expressions",
             "docId": "bash/regular_expressions",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Cambiar permisos con chmod",
-            "href": "/docs/bash/chmod",
+            "href": "/bioinfo_pal_norte/docs/bash/chmod",
             "docId": "bash/chmod",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Editor de texto nano",
-            "href": "/docs/bash/nano",
+            "href": "/bioinfo_pal_norte/docs/bash/nano",
             "docId": "bash/nano",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Visualización de archivos",
-            "href": "/docs/bash/files_visualization",
+            "href": "/bioinfo_pal_norte/docs/bash/files_visualization",
             "docId": "bash/files_visualization",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Comando cut",
-            "href": "/docs/bash/cut",
+            "href": "/bioinfo_pal_norte/docs/bash/cut",
             "docId": "bash/cut",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Comando grep",
-            "href": "/docs/bash/grep",
+            "href": "/bioinfo_pal_norte/docs/bash/grep",
             "docId": "bash/grep",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Comando sed",
-            "href": "/docs/bash/sed",
+            "href": "/bioinfo_pal_norte/docs/bash/sed",
             "docId": "bash/sed",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Comando sort",
-            "href": "/docs/bash/sort",
+            "href": "/bioinfo_pal_norte/docs/bash/sort",
             "docId": "bash/sort",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Redirección de salida y tuberías",
-            "href": "/docs/bash/stdoutput_pipes",
+            "href": "/bioinfo_pal_norte/docs/bash/stdoutput_pipes",
             "docId": "bash/stdoutput_pipes",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Creación de un script",
-            "href": "/docs/bash/script",
+            "href": "/bioinfo_pal_norte/docs/bash/script",
             "docId": "bash/script",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Ejercicios de práctica",
-            "href": "/docs/bash/exercise",
+            "href": "/bioinfo_pal_norte/docs/bash/exercise",
             "docId": "bash/exercise",
             "unlisted": false
           }
@@ -159,63 +159,63 @@
           {
             "type": "link",
             "label": "Introducción QIIME 2",
-            "href": "/docs/qiime2/intro",
+            "href": "/bioinfo_pal_norte/docs/qiime2/intro",
             "docId": "qiime2/intro",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Formatos comunes de secuencias",
-            "href": "/docs/qiime2/fasta_fastq",
+            "href": "/bioinfo_pal_norte/docs/qiime2/fasta_fastq",
             "docId": "qiime2/fasta_fastq",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Instalación de QIIME 2",
-            "href": "/docs/qiime2/installation",
+            "href": "/bioinfo_pal_norte/docs/qiime2/installation",
             "docId": "qiime2/installation",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Documentos iniciales",
-            "href": "/docs/qiime2/qiime2_files",
+            "href": "/bioinfo_pal_norte/docs/qiime2/qiime2_files",
             "docId": "qiime2/qiime2_files",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Remoción de adaptadores",
-            "href": "/docs/qiime2/adapters",
+            "href": "/bioinfo_pal_norte/docs/qiime2/adapters",
             "docId": "qiime2/adapters",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Denoising",
-            "href": "/docs/qiime2/denoising",
+            "href": "/bioinfo_pal_norte/docs/qiime2/denoising",
             "docId": "qiime2/denoising",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Asignación taxonómica",
-            "href": "/docs/qiime2/taxonomy",
+            "href": "/bioinfo_pal_norte/docs/qiime2/taxonomy",
             "docId": "qiime2/taxonomy",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Diversidad alfa",
-            "href": "/docs/qiime2/adiv",
+            "href": "/bioinfo_pal_norte/docs/qiime2/adiv",
             "docId": "qiime2/adiv",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Diversidad beta",
-            "href": "/docs/qiime2/bdiv",
+            "href": "/bioinfo_pal_norte/docs/qiime2/bdiv",
             "docId": "qiime2/bdiv",
             "unlisted": false
           }
