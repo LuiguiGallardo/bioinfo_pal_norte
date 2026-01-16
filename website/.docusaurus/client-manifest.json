@@ -220,9 +220,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.e0acddbc.js",
-          "hash": "2a9a0183db1223c0",
-          "publicPath": "/bioinfo_pal_norte/assets/js/main.e0acddbc.js"
+          "file": "assets/js/main.862483b1.js",
+          "hash": "be9c2715917429b4",
+          "publicPath": "/bioinfo_pal_norte/assets/js/main.862483b1.js"
         }
       ]
     },
@@ -266,7 +266,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.0bfaf2ac.js",
-          "hash": "efa8f637750644e0",
+          "hash": "929cb67acd010936",
           "publicPath": "/bioinfo_pal_norte/assets/js/runtime~main.0bfaf2ac.js"
         }
       ]
